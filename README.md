@@ -1,3 +1,3 @@
-# NCAAFB Data Explorer
+# Sports-Analytics-on-NCAAFB-Data
 
-End-to-end NCAA Football analytics project.
+A centralized NCAA Football analytics system that connects rankings, teams, players, and game data into a single, relationally linked platform — empowering advanced performance and trend analysis.
