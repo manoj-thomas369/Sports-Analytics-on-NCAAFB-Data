@@ -1,0 +1,39 @@
+{
+  "id": "900df16a-e89b-4806-886c-f2413343d0a7",
+  "name": "Pioneers",
+  "market": "Wayland Baptist",
+  "alias": "WAYB",
+  "franchise": {
+    "id": "900df16a-e89b-4806-886c-f2413343d0a7",
+    "name": "Pioneers"
+  },
+  "venue": {
+    "id": "d3089b8c-7ce3-4171-aa74-8d4b1806f0b5",
+    "name": "Greg Sherwood Memorial Bulldog Stadium",
+    "city": "Plainview",
+    "state": "TX",
+    "country": "USA",
+    "zip": "79072",
+    "address": "W 24th St at Yonkers Street",
+    "capacity": 8000,
+    "surface": "artificial",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "34.2036",
+      "lng": "-101.7329"
+    }
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "50a92c00-888a-40c3-b223-9624dec9f2bd",
+    "name": "Sooner Athletic Conference",
+    "alias": "SOONER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:06:27 +0000 ended @ 2025-12-03 23:06:27 +0000"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "42fbc094-1663-4481-a4d2-3ae43ce58c05",
+  "name": "Bulldogs",
+  "market": "Southwestern Oklahoma State",
+  "alias": "SWOSU",
+  "franchise": {
+    "id": "42fbc094-1663-4481-a4d2-3ae43ce58c05",
+    "name": "Bulldogs"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "16e6d63b-7720-43d8-a7c0-d5c7bfd7a4ac",
+      "name": "Jack Kristofek",
+      "jersey": "0",
+      "last_name": "Kristofek",
+      "first_name": "Jack",
+      "abbr_name": "J.Kristofek",
+      "weight": 190.0,
+      "height": 76,
+      "position": "QB",
+      "birth_place": "Dallas, TX, USA",
+      "status": "ACT",
+      "eligibility": "SO"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

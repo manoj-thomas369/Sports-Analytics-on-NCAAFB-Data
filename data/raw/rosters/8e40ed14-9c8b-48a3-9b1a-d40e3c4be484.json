@@ -1,0 +1,39 @@
+{
+  "id": "8e40ed14-9c8b-48a3-9b1a-d40e3c4be484",
+  "name": "Panthers",
+  "market": "Florida Tech",
+  "alias": "FIT",
+  "franchise": {
+    "id": "8e40ed14-9c8b-48a3-9b1a-d40e3c4be484",
+    "name": "Panthers"
+  },
+  "venue": {
+    "id": "e223e39b-3b21-4c7a-9b37-b00c2dac9a1e",
+    "name": "Florida Tech Panther Stadium",
+    "city": "Melbourne",
+    "state": "FL",
+    "country": "USA",
+    "zip": "32901",
+    "address": "101 Pirate Lane",
+    "capacity": 4980,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "28.0487",
+      "lng": "-80.6202"
+    }
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "2d58e0bd-e249-48f5-b531-c22f5cf6e264",
+    "name": "Gulf South Conference",
+    "alias": "GSC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:26:38 +0000 ended @ 2025-12-03 22:26:38 +0000"
+}

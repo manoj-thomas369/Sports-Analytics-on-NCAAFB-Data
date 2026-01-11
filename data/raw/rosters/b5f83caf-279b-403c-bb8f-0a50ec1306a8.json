@@ -1,0 +1,23 @@
+{
+  "id": "b5f83caf-279b-403c-bb8f-0a50ec1306a8",
+  "name": "Broncos",
+  "market": "Hastings College",
+  "alias": "HAST",
+  "franchise": {
+    "id": "b5f83caf-279b-403c-bb8f-0a50ec1306a8",
+    "name": "Broncos"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "a8b3bd39-35da-4734-be6e-b45f93ad0626",
+    "name": "Great Plains Athletic Conference",
+    "alias": "GPAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

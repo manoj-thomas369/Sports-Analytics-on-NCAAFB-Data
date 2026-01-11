@@ -1,0 +1,39 @@
+{
+  "id": "d7deff91-48fd-4aa2-b7da-5be3517143c8",
+  "name": "Blue Raiders",
+  "market": "Lindsey Wilson",
+  "alias": "LW",
+  "franchise": {
+    "id": "d7deff91-48fd-4aa2-b7da-5be3517143c8",
+    "name": "Blue Raiders"
+  },
+  "venue": {
+    "id": "12f10ec4-49ec-4e2b-ae32-d913c2137ebd",
+    "name": "Blue Raider Stadium",
+    "city": "Columbia",
+    "state": "KY",
+    "country": "USA",
+    "zip": "42728",
+    "address": "928 Russell Road",
+    "capacity": 1500,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "35.8506",
+      "lng": "-86.3676"
+    }
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "eb7f8197-a82d-4ab3-831b-5a2c647618e0",
+    "name": "Mid-South Conference",
+    "alias": "MID-SOUTH"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

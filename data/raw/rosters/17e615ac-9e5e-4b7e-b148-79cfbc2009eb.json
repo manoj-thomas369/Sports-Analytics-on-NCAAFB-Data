@@ -1,0 +1,23 @@
+{
+  "id": "17e615ac-9e5e-4b7e-b148-79cfbc2009eb",
+  "name": "Cardinals",
+  "market": "Catholic",
+  "alias": "TCUA",
+  "franchise": {
+    "id": "17e615ac-9e5e-4b7e-b148-79cfbc2009eb",
+    "name": "Cardinals"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "ce2159f5-1b3c-438e-acb9-e6e61b597c71",
+    "name": "New England Women's and Men's Athletic Conference",
+    "alias": "NEWMAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:55 +0000 ended @ 2025-12-03 22:29:55 +0000"
+}

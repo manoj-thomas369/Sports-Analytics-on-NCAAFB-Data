@@ -1,0 +1,23 @@
+{
+  "id": "da19fd0e-e1e4-45a0-b962-6d6d4ce0b257",
+  "name": "Lions",
+  "market": "Mount St. Joseph",
+  "alias": "MSJ",
+  "franchise": {
+    "id": "da19fd0e-e1e4-45a0-b962-6d6d4ce0b257",
+    "name": "Lions"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "6bf1311a-2333-4548-be17-8f1aa14f8e4d",
+    "name": "Heartland Conference",
+    "alias": "HCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

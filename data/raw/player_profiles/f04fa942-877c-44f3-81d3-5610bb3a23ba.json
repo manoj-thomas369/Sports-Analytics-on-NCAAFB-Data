@@ -1,0 +1,149 @@
+{
+  "id": "f04fa942-877c-44f3-81d3-5610bb3a23ba",
+  "name": "Dillon Botner",
+  "jersey": "60",
+  "last_name": "Botner",
+  "first_name": "Dillon",
+  "abbr_name": "D.Botner",
+  "weight": 280.0,
+  "height": 78,
+  "position": "OL",
+  "birth_place": "Whitefish, MT, USA",
+  "status": "ACT",
+  "eligibility": "GR",
+  "team": {
+    "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+    "name": "Grizzlies",
+    "market": "Montana",
+    "alias": "MONT"
+  },
+  "seasons": [
+    {
+      "id": "a89f105a-fe49-4331-b638-4ee12dae0493",
+      "year": 2019,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "17d91be7-4bd3-4407-80e2-eca205c9284a",
+      "year": 2020,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "465236db-280e-49a6-9575-feb4ca20b9b4",
+          "name": "Grizzlies",
+          "market": "Montana",
+          "alias": "MONT",
+          "statistics": {
+            "games_played": 15,
+            "games_started": 14
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-21 05:06:11 +0000 ended @ 2025-12-21 05:06:11 +0000"
+}

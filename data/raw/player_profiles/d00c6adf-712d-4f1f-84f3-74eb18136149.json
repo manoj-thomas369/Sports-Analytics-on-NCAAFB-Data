@@ -1,0 +1,121 @@
+{
+  "id": "d00c6adf-712d-4f1f-84f3-74eb18136149",
+  "name": "Devon Dorsey",
+  "jersey": "7",
+  "last_name": "Dorsey",
+  "first_name": "Devon",
+  "abbr_name": "D.Dorsey",
+  "weight": 215.0,
+  "height": 74,
+  "position": "WR",
+  "birth_place": "Jonesboro, GA, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "dc99beff-fa60-40a8-8b8a-316f7cea3e93",
+    "name": "Golden Rams",
+    "market": "Albany State",
+    "alias": "ALSU"
+  },
+  "seasons": [
+    {
+      "id": "17d91be7-4bd3-4407-80e2-eca205c9284a",
+      "year": 2020,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "25a0e60a-2452-494b-8d9e-5177962cf569",
+          "name": "RedHawks",
+          "market": "Miami (OH)",
+          "alias": "M-OH",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "25a0e60a-2452-494b-8d9e-5177962cf569",
+          "name": "RedHawks",
+          "market": "Miami (OH)",
+          "alias": "M-OH",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 0,
+            "receiving": {
+              "receptions": 3,
+              "targets": 6,
+              "yards": 34,
+              "avg_yards": 11.333,
+              "longest": 14,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 34,
+              "redzone_targets": 0,
+              "air_yards": 0,
+              "first_downs": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "25a0e60a-2452-494b-8d9e-5177962cf569",
+          "name": "RedHawks",
+          "market": "Miami (OH)",
+          "alias": "M-OH",
+          "statistics": {
+            "games_played": 3,
+            "games_started": 1,
+            "receiving": {
+              "receptions": 0,
+              "targets": 1,
+              "yards": 0,
+              "avg_yards": 0.0,
+              "longest": 0,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 0,
+              "redzone_targets": 0,
+              "air_yards": 0,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "dc99beff-fa60-40a8-8b8a-316f7cea3e93",
+          "name": "Golden Rams",
+          "market": "Albany State",
+          "alias": "ALSU",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 1
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:00:54 +0000 ended @ 2025-12-03 23:00:54 +0000"
+}

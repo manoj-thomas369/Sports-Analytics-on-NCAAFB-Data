@@ -1,0 +1,139 @@
+{
+  "id": "155b8430-06e5-11ed-9fb0-51798d3d433c",
+  "name": "Michael Allen",
+  "jersey": "30",
+  "last_name": "Allen",
+  "first_name": "Michael",
+  "abbr_name": "M.Allen",
+  "weight": 182.0,
+  "height": 67,
+  "position": "SAF",
+  "birth_place": "Stilwell, KS, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "8b8225f5-eb09-48ea-9120-cef081918b7a",
+    "name": "Bears",
+    "market": "Baylor",
+    "alias": "BAY"
+  },
+  "seasons": [
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8b8225f5-eb09-48ea-9120-cef081918b7a",
+          "name": "Bears",
+          "market": "Baylor",
+          "alias": "BAY",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8b8225f5-eb09-48ea-9120-cef081918b7a",
+          "name": "Bears",
+          "market": "Baylor",
+          "alias": "BAY",
+          "statistics": {
+            "games_played": 7,
+            "games_started": 0,
+            "defense": {
+              "tackles": 1,
+              "assists": 0,
+              "combined": 1,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8b8225f5-eb09-48ea-9120-cef081918b7a",
+          "name": "Bears",
+          "market": "Baylor",
+          "alias": "BAY",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 0,
+            "kick_returns": {
+              "returns": 1,
+              "yards": 15,
+              "avg_yards": 15.0,
+              "touchdowns": 0,
+              "longest": 15,
+              "faircatches": 1,
+              "longest_touchdown": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8b8225f5-eb09-48ea-9120-cef081918b7a",
+          "name": "Bears",
+          "market": "Baylor",
+          "alias": "BAY",
+          "statistics": {
+            "games_played": 9,
+            "games_started": 0,
+            "kick_returns": {
+              "returns": 2,
+              "yards": 42,
+              "avg_yards": 21.0,
+              "touchdowns": 0,
+              "longest": 26,
+              "faircatches": 0,
+              "longest_touchdown": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:26:04 +0000 ended @ 2025-12-03 23:26:04 +0000"
+}

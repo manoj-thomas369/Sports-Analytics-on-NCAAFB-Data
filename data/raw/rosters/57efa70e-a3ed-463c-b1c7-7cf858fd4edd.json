@@ -1,0 +1,23 @@
+{
+  "id": "57efa70e-a3ed-463c-b1c7-7cf858fd4edd",
+  "name": "Hornets",
+  "market": "Lynchburg",
+  "alias": "LYN",
+  "franchise": {
+    "id": "57efa70e-a3ed-463c-b1c7-7cf858fd4edd",
+    "name": "Hornets"
+  },
+  "division": {
+    "id": "aa5db6ca-f9b2-4ab9-8e07-6a249ddf0c82",
+    "name": "USCAA",
+    "alias": "USCAA"
+  },
+  "conference": {
+    "id": "ab0298d3-527e-40c8-ae4b-f328e5303aa6",
+    "name": "USCAA Independents",
+    "alias": "USCAA-INDEPENDENTS"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

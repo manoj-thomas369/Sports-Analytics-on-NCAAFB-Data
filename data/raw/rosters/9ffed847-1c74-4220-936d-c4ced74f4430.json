@@ -1,0 +1,35 @@
+{
+  "id": "9ffed847-1c74-4220-936d-c4ced74f4430",
+  "name": "Panthers",
+  "market": "Birmingham-Southern",
+  "alias": "BSC",
+  "franchise": {
+    "id": "9ffed847-1c74-4220-936d-c4ced74f4430",
+    "name": "Panthers"
+  },
+  "venue": {
+    "id": "c3bd6cc1-be60-47d7-8b5c-35aba27bd81e",
+    "name": "Panther Stadium",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "USA",
+    "zip": "35254",
+    "address": "900 Arkadelphia Road",
+    "capacity": 1600,
+    "surface": "artificial",
+    "roof_type": "outdoor"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "cebd2176-c0ab-49d6-a98b-fd58048029b3",
+    "name": "Southern Athletic Association",
+    "alias": "SAA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:24 +0000 ended @ 2025-12-03 22:51:24 +0000"
+}

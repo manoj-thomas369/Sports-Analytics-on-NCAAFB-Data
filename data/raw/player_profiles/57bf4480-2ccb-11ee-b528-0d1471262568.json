@@ -1,0 +1,103 @@
+{
+  "id": "57bf4480-2ccb-11ee-b528-0d1471262568",
+  "name": "Trey Brueggemann",
+  "jersey": "2",
+  "last_name": "Brueggemann",
+  "first_name": "Trey",
+  "abbr_name": "T.Brueggemann",
+  "weight": 220.0,
+  "height": 73,
+  "position": "LB",
+  "birth_place": "Temperance, MI, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "1003f810-14bf-11f0-9f36-d9ba58a137df",
+    "name": "Bulldogs",
+    "market": "Adrian",
+    "alias": "ADRN"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "692e1f0e-3c3a-4223-b2cf-7bbc58cf4977",
+          "name": "Rockets",
+          "market": "Toledo",
+          "alias": "TOL",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "1003f810-14bf-11f0-9f36-d9ba58a137df",
+          "name": "Bulldogs",
+          "market": "Adrian",
+          "alias": "ADRN",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0,
+            "rushing": {
+              "avg_yards": 3.591,
+              "attempts": 22,
+              "touchdowns": 0,
+              "yards": 79,
+              "longest": 17,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0,
+              "tlost": 0,
+              "tlost_yards": 0,
+              "first_downs": 0
+            },
+            "receiving": {
+              "receptions": 3,
+              "targets": 3,
+              "yards": 12,
+              "avg_yards": 4.0,
+              "longest": 7,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 0,
+              "redzone_targets": 0,
+              "air_yards": 12,
+              "first_downs": 0
+            },
+            "passing": {
+              "attempts": 1,
+              "completions": 1,
+              "cmp_pct": 100.0,
+              "yards": -9,
+              "avg_yards": -9.0,
+              "sacks": 0,
+              "sack_yards": 0,
+              "touchdowns": 0,
+              "longest": 0,
+              "interceptions": 0,
+              "rating": 24.4,
+              "longest_touchdown": 0,
+              "air_yards": 0,
+              "redzone_attempts": 0,
+              "gross_yards": -9,
+              "first_downs": 0,
+              "int_touchdowns": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:24:30 +0000 ended @ 2025-12-03 23:24:30 +0000"
+}

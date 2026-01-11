@@ -1,0 +1,38 @@
+{
+  "id": "9eeb9950-150a-11ed-80fe-af7277171556",
+  "name": "Eli Bertrand",
+  "jersey": "0",
+  "last_name": "Bertrand",
+  "first_name": "Eli",
+  "abbr_name": "E.Bertrand",
+  "position": "DB",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "82adc0a0-d140-11ec-bd73-5fb6b9dd2642",
+    "name": "Seahawks",
+    "market": "Keiser",
+    "alias": "KEIS"
+  },
+  "seasons": [
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "82adc0a0-d140-11ec-bd73-5fb6b9dd2642",
+          "name": "Seahawks",
+          "market": "Keiser",
+          "alias": "KEIS",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:38 +0000 ended @ 2025-12-03 23:02:38 +0000"
+}

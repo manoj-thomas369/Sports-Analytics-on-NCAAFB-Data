@@ -1,0 +1,40 @@
+{
+  "id": "67d944c2-f236-470b-bee6-85c58ab8094d",
+  "name": "Privateers",
+  "market": "SUNY-Maritime",
+  "alias": "SUNYM",
+  "franchise": {
+    "id": "67d944c2-f236-470b-bee6-85c58ab8094d",
+    "name": "Privateers"
+  },
+  "venue": {
+    "id": "31ceb4fb-29d9-4bee-a7dd-61018b38ab00",
+    "name": "Reinhart Field",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "zip": "10465",
+    "address": "6 Pennyfield Avenue",
+    "capacity": 1500,
+    "surface": "artificial",
+    "roof_type": "outdoor",
+    "sr_id": "sr:venue:29766",
+    "location": {
+      "lat": "40.8074",
+      "lng": "-73.7978"
+    }
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "7f891013-f048-4208-bf07-958075d62ca4",
+    "name": "Eastern Collegiate Football Conference",
+    "alias": "ECFC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

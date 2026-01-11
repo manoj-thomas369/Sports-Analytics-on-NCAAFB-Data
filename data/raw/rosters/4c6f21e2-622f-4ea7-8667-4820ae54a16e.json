@@ -1,0 +1,23 @@
+{
+  "id": "4c6f21e2-622f-4ea7-8667-4820ae54a16e",
+  "name": "Statesmen",
+  "market": "William Penn",
+  "alias": "WPU",
+  "franchise": {
+    "id": "4c6f21e2-622f-4ea7-8667-4820ae54a16e",
+    "name": "Statesmen"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "cf057f51-1f23-4afc-a6d7-679e9cf55018",
+    "name": "Midwest Collegiate Conference",
+    "alias": "MCC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

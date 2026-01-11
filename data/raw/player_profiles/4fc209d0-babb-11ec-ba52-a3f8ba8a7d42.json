@@ -1,0 +1,65 @@
+{
+  "id": "4fc209d0-babb-11ec-ba52-a3f8ba8a7d42",
+  "name": "Jerrell Cummings",
+  "jersey": "8",
+  "last_name": "Cummings",
+  "first_name": "Jerrell",
+  "abbr_name": "J.Cummings",
+  "weight": 185.0,
+  "height": 70,
+  "position": "DB",
+  "birth_place": "Vancouver, BC, CAN",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "4736be13-a5c5-4477-991d-d3f57a306bdf",
+    "name": "Clan",
+    "market": "Simon Fraser",
+    "alias": "SFRA"
+  },
+  "seasons": [
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "4736be13-a5c5-4477-991d-d3f57a306bdf",
+          "name": "Clan",
+          "market": "Simon Fraser",
+          "alias": "SFRA",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 1,
+            "defense": {
+              "tackles": 6,
+              "assists": 2,
+              "combined": 8,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:00:22 +0000 ended @ 2025-12-03 23:00:22 +0000"
+}

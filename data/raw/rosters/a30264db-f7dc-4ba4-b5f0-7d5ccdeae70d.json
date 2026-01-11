@@ -1,0 +1,23 @@
+{
+  "id": "a30264db-f7dc-4ba4-b5f0-7d5ccdeae70d",
+  "name": "Warriors",
+  "market": "Bacone",
+  "alias": "BAC",
+  "franchise": {
+    "id": "a30264db-f7dc-4ba4-b5f0-7d5ccdeae70d",
+    "name": "Warriors"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "e602d087-f616-4805-99b6-3e24a524561b",
+    "name": "Red River Athletic Conference",
+    "alias": "RED-RIVER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

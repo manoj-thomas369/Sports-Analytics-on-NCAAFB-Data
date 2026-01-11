@@ -1,0 +1,23 @@
+{
+  "id": "115a1013-4575-4c5b-b96a-9408deba6036",
+  "name": "Tigers",
+  "market": "Campbellsville",
+  "alias": "CMPB",
+  "franchise": {
+    "id": "115a1013-4575-4c5b-b96a-9408deba6036",
+    "name": "Tigers"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "eb7f8197-a82d-4ab3-831b-5a2c647618e0",
+    "name": "Mid-South Conference",
+    "alias": "MID-SOUTH"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

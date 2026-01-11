@@ -1,0 +1,23 @@
+{
+  "id": "c5554609-655c-4e25-bf93-d6e6a98b0b6f",
+  "name": "Comets",
+  "market": "Mayville State",
+  "alias": "MSU",
+  "franchise": {
+    "id": "c5554609-655c-4e25-bf93-d6e6a98b0b6f",
+    "name": "Comets"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "0640b507-31ce-453e-9a0e-675705aa5062",
+    "name": "North Star Athletic Association",
+    "alias": "NORTH-STAR"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:06:27 +0000 ended @ 2025-12-03 23:06:27 +0000"
+}

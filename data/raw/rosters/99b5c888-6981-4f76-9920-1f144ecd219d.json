@@ -1,0 +1,23 @@
+{
+  "id": "99b5c888-6981-4f76-9920-1f144ecd219d",
+  "name": "Tigers",
+  "market": "Ouachita Baptist",
+  "alias": "OBU",
+  "franchise": {
+    "id": "99b5c888-6981-4f76-9920-1f144ecd219d",
+    "name": "Tigers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "366a30a0-3e9a-11f0-9bdb-d94702df9318",
+  "name": "Bruce Brown",
+  "jersey": "46",
+  "last_name": "Brown",
+  "first_name": "Bruce",
+  "abbr_name": "B.Brown",
+  "weight": 211.0,
+  "height": 74,
+  "position": "K/P",
+  "birth_place": "Central, SC, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "8cf5c880-678f-400e-b4c2-04ae676ed538",
+    "name": "Paladins",
+    "market": "Furman",
+    "alias": "FUR"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8cf5c880-678f-400e-b4c2-04ae676ed538",
+          "name": "Paladins",
+          "market": "Furman",
+          "alias": "FUR",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:36:44 +0000 ended @ 2025-12-03 22:36:44 +0000"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "411a9916-0398-4b58-9210-fd81e5e6fe32",
+  "name": "Raiders",
+  "market": "Shippensburg University",
+  "alias": "SU",
+  "franchise": {
+    "id": "411a9916-0398-4b58-9210-fd81e5e6fe32",
+    "name": "Raiders"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "b42fbccc-5182-40bf-8d99-213a80dcf327",
+    "name": "Pennsylvania State Athletic Conference",
+    "alias": "PSAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "49eada68-8a75-4e01-8b9e-be70a885825b",
+      "name": "Sam Johnson III",
+      "jersey": "0",
+      "last_name": "Johnson",
+      "first_name": "Sam",
+      "abbr_name": "S.Johnson",
+      "weight": 210.0,
+      "height": 75,
+      "position": "QB",
+      "birth_place": "Detroit, MI, USA",
+      "status": "ACT",
+      "eligibility": "FR",
+      "name_suffix": "III"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:23 +0000 ended @ 2025-12-03 23:01:23 +0000"
+}

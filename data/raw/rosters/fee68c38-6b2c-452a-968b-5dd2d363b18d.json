@@ -1,0 +1,23 @@
+{
+  "id": "fee68c38-6b2c-452a-968b-5dd2d363b18d",
+  "name": "Tigers",
+  "market": "Benedict",
+  "alias": "BC",
+  "franchise": {
+    "id": "fee68c38-6b2c-452a-968b-5dd2d363b18d",
+    "name": "Tigers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "cf3cc2c8-47ef-418d-8a25-94ab97588c37",
+    "name": "Southern Intercollegiate Athletic Conference",
+    "alias": "SIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

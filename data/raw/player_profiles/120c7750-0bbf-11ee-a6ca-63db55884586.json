@@ -1,0 +1,95 @@
+{
+  "id": "120c7750-0bbf-11ee-a6ca-63db55884586",
+  "name": "Gavin Batt",
+  "jersey": "85",
+  "last_name": "Batt",
+  "first_name": "Gavin",
+  "abbr_name": "G.Batt",
+  "weight": 200.0,
+  "height": 75,
+  "position": "WR",
+  "birth_place": "Clemson, SC, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "46188043-b51d-41f5-9e76-b72ee3263ccc",
+    "name": "Terriers",
+    "market": "Wofford",
+    "alias": "WOF"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "46188043-b51d-41f5-9e76-b72ee3263ccc",
+          "name": "Terriers",
+          "market": "Wofford",
+          "alias": "WOF",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "46188043-b51d-41f5-9e76-b72ee3263ccc",
+          "name": "Terriers",
+          "market": "Wofford",
+          "alias": "WOF",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 0,
+            "kick_returns": {
+              "returns": 0,
+              "yards": 0,
+              "avg_yards": 0.0,
+              "touchdowns": 0,
+              "longest": 0,
+              "faircatches": 4,
+              "longest_touchdown": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "46188043-b51d-41f5-9e76-b72ee3263ccc",
+          "name": "Terriers",
+          "market": "Wofford",
+          "alias": "WOF",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 0,
+            "kick_returns": {
+              "returns": 2,
+              "yards": 46,
+              "avg_yards": 23.0,
+              "touchdowns": 0,
+              "longest": 26,
+              "faircatches": 0,
+              "longest_touchdown": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:02 +0000 ended @ 2025-12-03 23:01:02 +0000"
+}

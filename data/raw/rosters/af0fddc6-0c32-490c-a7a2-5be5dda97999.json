@@ -1,0 +1,23 @@
+{
+  "id": "af0fddc6-0c32-490c-a7a2-5be5dda97999",
+  "name": "Hawks",
+  "market": "Shorter",
+  "alias": "SHRT",
+  "franchise": {
+    "id": "af0fddc6-0c32-490c-a7a2-5be5dda97999",
+    "name": "Hawks"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "2d58e0bd-e249-48f5-b531-c22f5cf6e264",
+    "name": "Gulf South Conference",
+    "alias": "GSC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

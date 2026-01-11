@@ -1,0 +1,181 @@
+{
+  "id": "4c8f9080-ccd9-11ed-bf54-c141b9ad7e13",
+  "name": "Jalen McDonald",
+  "jersey": "4",
+  "last_name": "McDonald",
+  "first_name": "Jalen",
+  "abbr_name": "J.McDonald",
+  "weight": 180.0,
+  "height": 71,
+  "position": "WR",
+  "birth_place": "Laurel, MD, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "5490b68d-5834-47d8-bddc-d78005b917f1",
+    "name": "Warriors",
+    "market": "Merrimack",
+    "alias": "MRMK"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5490b68d-5834-47d8-bddc-d78005b917f1",
+          "name": "Warriors",
+          "market": "Merrimack",
+          "alias": "MRMK",
+          "statistics": {
+            "games_played": 5,
+            "games_started": 0,
+            "receiving": {
+              "receptions": 3,
+              "targets": 3,
+              "yards": 57,
+              "avg_yards": 19.0,
+              "longest": 32,
+              "touchdowns": 1,
+              "longest_touchdown": 0,
+              "yards_after_catch": 32,
+              "redzone_targets": 0,
+              "air_yards": 25,
+              "first_downs": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5490b68d-5834-47d8-bddc-d78005b917f1",
+          "name": "Warriors",
+          "market": "Merrimack",
+          "alias": "MRMK",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 10,
+            "rushing": {
+              "avg_yards": 7.0,
+              "attempts": 5,
+              "touchdowns": 0,
+              "yards": 35,
+              "longest": 24,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0,
+              "tlost": 0,
+              "tlost_yards": 0,
+              "first_downs": 0
+            },
+            "receiving": {
+              "receptions": 18,
+              "targets": 18,
+              "yards": 302,
+              "avg_yards": 16.778,
+              "longest": 51,
+              "touchdowns": 4,
+              "longest_touchdown": 11,
+              "yards_after_catch": 39,
+              "redzone_targets": 1,
+              "air_yards": 263,
+              "first_downs": 1
+            },
+            "punt_returns": {
+              "returns": 4,
+              "yards": 33,
+              "avg_yards": 8.25,
+              "touchdowns": 0,
+              "longest": 14,
+              "faircatches": 7,
+              "longest_touchdown": 0
+            },
+            "kick_returns": {
+              "returns": 6,
+              "yards": 115,
+              "avg_yards": 19.167,
+              "touchdowns": 0,
+              "longest": 24,
+              "faircatches": 0,
+              "longest_touchdown": 0
+            },
+            "fumbles": {
+              "fumbles": 1,
+              "lost_fumbles": 1,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5490b68d-5834-47d8-bddc-d78005b917f1",
+          "name": "Warriors",
+          "market": "Merrimack",
+          "alias": "MRMK",
+          "statistics": {
+            "games_played": 7,
+            "games_started": 7,
+            "rushing": {
+              "avg_yards": 7.0,
+              "attempts": 1,
+              "touchdowns": 0,
+              "yards": 7,
+              "longest": 7,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0,
+              "tlost": 0,
+              "tlost_yards": 0,
+              "first_downs": 0
+            },
+            "receiving": {
+              "receptions": 16,
+              "targets": 25,
+              "yards": 197,
+              "avg_yards": 12.313,
+              "longest": 34,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 141,
+              "redzone_targets": 0,
+              "air_yards": 56,
+              "first_downs": 4
+            },
+            "conversions": {
+              "pass_attempts": 0,
+              "pass_successes": 0,
+              "rush_attempts": 0,
+              "rush_successes": 0,
+              "receive_attempts": 1,
+              "receive_successes": 0,
+              "defense_attempts": 0,
+              "defense_successes": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:03 +0000 ended @ 2025-12-03 23:02:03 +0000"
+}

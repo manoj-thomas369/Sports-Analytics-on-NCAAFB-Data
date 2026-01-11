@@ -1,0 +1,59 @@
+{
+  "id": "6bffca30-5e68-11ef-a6e7-a363cc8d0bd0",
+  "name": "Mike Balogh",
+  "jersey": "81",
+  "last_name": "Balogh",
+  "first_name": "Mike",
+  "abbr_name": "M.Balogh",
+  "weight": 230.0,
+  "height": 76,
+  "position": "TE",
+  "birth_place": "Elyria, OH, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+    "name": "Raiders",
+    "market": "Colgate",
+    "alias": "COLG"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+          "name": "Raiders",
+          "market": "Colgate",
+          "alias": "COLG",
+          "statistics": {
+            "games_played": 3,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+          "name": "Raiders",
+          "market": "Colgate",
+          "alias": "COLG",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:24:33 +0000 ended @ 2025-12-03 23:24:33 +0000"
+}

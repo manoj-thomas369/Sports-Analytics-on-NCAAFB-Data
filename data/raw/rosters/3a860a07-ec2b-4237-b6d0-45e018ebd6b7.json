@@ -1,0 +1,52 @@
+{
+  "id": "3a860a07-ec2b-4237-b6d0-45e018ebd6b7",
+  "name": "Mavericks",
+  "market": "Colorado Mesa",
+  "alias": "CMU",
+  "franchise": {
+    "id": "3a860a07-ec2b-4237-b6d0-45e018ebd6b7",
+    "name": "Mavericks"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "201ef749-4ed4-4474-88ce-91bc1119436e",
+    "name": "Rocky Mountain Athletic Conference",
+    "alias": "RMAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "5647b40d-384d-4fc3-be11-f9544292ed33",
+      "name": "Garrett Beckman",
+      "jersey": "0",
+      "last_name": "Beckman",
+      "first_name": "Garrett",
+      "abbr_name": "G.Beckman",
+      "weight": 335.0,
+      "height": 76,
+      "position": "OL",
+      "birth_place": "Greeley, CO, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    },
+    {
+      "id": "6dbbfde7-cb1f-4bad-8944-92a52c6c5bef",
+      "name": "Brooklyn Hardiman",
+      "jersey": "0",
+      "last_name": "Hardiman",
+      "first_name": "Brooklyn",
+      "abbr_name": "B.Hardiman",
+      "weight": 230.0,
+      "height": 74,
+      "position": "LB",
+      "birth_place": "Concord, CA, USA",
+      "status": "ACT",
+      "eligibility": "SR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

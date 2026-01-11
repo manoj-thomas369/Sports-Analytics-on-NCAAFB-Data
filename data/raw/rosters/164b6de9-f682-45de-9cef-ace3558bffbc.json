@@ -1,0 +1,23 @@
+{
+  "id": "164b6de9-f682-45de-9cef-ace3558bffbc",
+  "name": "Cobbers",
+  "market": "Concordia-Moorhead",
+  "alias": "CONC",
+  "franchise": {
+    "id": "164b6de9-f682-45de-9cef-ace3558bffbc",
+    "name": "Cobbers"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "29a74ca3-7c09-4d54-8d0f-62c15ee03cdc",
+    "name": "Minnesota Intercollegiate Athletic Conference",
+    "alias": "MIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

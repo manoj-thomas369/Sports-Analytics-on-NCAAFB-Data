@@ -1,0 +1,172 @@
+{
+  "id": "1a48d2af-7664-4066-91d6-03547c739e58",
+  "name": "Jake Burns",
+  "jersey": "65",
+  "last_name": "Burns",
+  "first_name": "Jake",
+  "abbr_name": "J.Burns",
+  "weight": 320.0,
+  "height": 74,
+  "position": "C",
+  "birth_place": "Akron, OH, USA",
+  "status": "ACT",
+  "eligibility": "GR",
+  "team": {
+    "id": "397830a6-c9c2-4c76-bcbc-cb1cdba768f0",
+    "name": "Falcons",
+    "market": "Bowling Green",
+    "alias": "BGSU"
+  },
+  "seasons": [
+    {
+      "id": "17d91be7-4bd3-4407-80e2-eca205c9284a",
+      "year": 2020,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "42a9a18b-b59a-408b-8cab-4e49cbe2c23a",
+          "name": "Bearcats",
+          "market": "Cincinnati",
+          "alias": "CIN",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "42a9a18b-b59a-408b-8cab-4e49cbe2c23a",
+          "name": "Bearcats",
+          "market": "Cincinnati",
+          "alias": "CIN",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "397830a6-c9c2-4c76-bcbc-cb1cdba768f0",
+          "name": "Falcons",
+          "market": "Bowling Green",
+          "alias": "BGSU",
+          "statistics": {
+            "games_played": 3,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "397830a6-c9c2-4c76-bcbc-cb1cdba768f0",
+          "name": "Falcons",
+          "market": "Bowling Green",
+          "alias": "BGSU",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 5,
+            "penalties": {
+              "penalties": 1,
+              "yards": 10,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "397830a6-c9c2-4c76-bcbc-cb1cdba768f0",
+          "name": "Falcons",
+          "market": "Bowling Green",
+          "alias": "BGSU",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 7,
+            "penalties": {
+              "penalties": 3,
+              "yards": 20,
+              "first_downs": 0
+            },
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 1,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "397830a6-c9c2-4c76-bcbc-cb1cdba768f0",
+          "name": "Falcons",
+          "market": "Bowling Green",
+          "alias": "BGSU",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 11,
+            "penalties": {
+              "penalties": 1,
+              "yards": 9,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:19 +0000 ended @ 2025-12-03 23:01:19 +0000"
+}

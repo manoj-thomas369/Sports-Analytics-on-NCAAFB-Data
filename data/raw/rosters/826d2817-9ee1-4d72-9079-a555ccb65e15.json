@@ -1,0 +1,23 @@
+{
+  "id": "826d2817-9ee1-4d72-9079-a555ccb65e15",
+  "name": "Mighty Falcons",
+  "market": "St. Augustine's",
+  "alias": "SAU",
+  "franchise": {
+    "id": "826d2817-9ee1-4d72-9079-a555ccb65e15",
+    "name": "Mighty Falcons"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "327bb2ce-9582-4e8e-adcb-d297ed656d32",
+    "name": "Central Intercollegiate Athletic Association",
+    "alias": "CIAA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

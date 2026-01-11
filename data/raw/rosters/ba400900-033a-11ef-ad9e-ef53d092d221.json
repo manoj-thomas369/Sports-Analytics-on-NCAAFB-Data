@@ -1,0 +1,24 @@
+{
+  "id": "ba400900-033a-11ef-ad9e-ef53d092d221",
+  "name": "Tigers",
+  "market": "Georgetown College",
+  "alias": "GC",
+  "franchise": {
+    "id": "115b3ac0-033b-11ef-ad9e-ef53d092d221",
+    "name": "Tigers",
+    "alias": "GTC"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "eb7f8197-a82d-4ab3-831b-5a2c647618e0",
+    "name": "Mid-South Conference",
+    "alias": "MID-SOUTH"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:16:15 +0000 ended @ 2025-12-03 23:16:15 +0000"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "a4b11ca0-3d51-11ee-a476-8fb95bcffc93",
+  "name": "Eddie Combs III",
+  "jersey": "80",
+  "last_name": "Combs",
+  "first_name": "Eddie",
+  "abbr_name": "E.Combs",
+  "weight": 170.0,
+  "height": 71,
+  "position": "WR",
+  "birth_place": "Orlando, FL, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "name_suffix": "III",
+  "team": {
+    "id": "50767f7e-8543-4b94-b2b7-486ea647b5c1",
+    "name": "Rams",
+    "market": "Rhode Island",
+    "alias": "URI"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "50767f7e-8543-4b94-b2b7-486ea647b5c1",
+          "name": "Rams",
+          "market": "Rhode Island",
+          "alias": "URI",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "50767f7e-8543-4b94-b2b7-486ea647b5c1",
+          "name": "Rams",
+          "market": "Rhode Island",
+          "alias": "URI",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "50767f7e-8543-4b94-b2b7-486ea647b5c1",
+          "name": "Rams",
+          "market": "Rhode Island",
+          "alias": "URI",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:22 +0000 ended @ 2025-12-03 23:02:22 +0000"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e8b9e3e0-8de1-11f0-a04f-1723a24b7180",
+  "name": "Bre'Andre Horsley",
+  "jersey": "9",
+  "last_name": "Horsley",
+  "first_name": "Bre'Andre",
+  "abbr_name": "B.Horsley",
+  "weight": 215.0,
+  "height": 76,
+  "position": "DE",
+  "birth_place": "Lynchburg, VA, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "8ddf8cd0-faec-43e4-b194-2ebc0eb6dfa0",
+    "name": "Hilltoppers",
+    "market": "West Liberty State",
+    "alias": "WLU"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "8ddf8cd0-faec-43e4-b194-2ebc0eb6dfa0",
+          "name": "Hilltoppers",
+          "market": "West Liberty State",
+          "alias": "WLU",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 1
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:25:09 +0000 ended @ 2025-12-03 23:25:09 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "00470517-9853-44b2-8ecc-4d90ea5a76b3",
+  "name": "Trojans",
+  "market": "Trinity International",
+  "alias": "TIU",
+  "franchise": {
+    "id": "00470517-9853-44b2-8ecc-4d90ea5a76b3",
+    "name": "Trojans"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "290e49a9-257c-45a8-99d2-296c13f247e7",
+    "name": "Chicagoland Collegiate Athletic Conference",
+    "alias": "CCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

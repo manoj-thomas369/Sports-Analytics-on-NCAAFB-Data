@@ -1,0 +1,23 @@
+{
+  "id": "57458416-bf4a-4191-b495-6ad4474bca4b",
+  "name": "Wasps",
+  "market": "Emory & Henry",
+  "alias": "EMHE\t",
+  "franchise": {
+    "id": "57458416-bf4a-4191-b495-6ad4474bca4b",
+    "name": "Wasps"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "44aadfd0-d35b-4a15-b4fc-4330d4ce6071",
+    "name": "Old Dominion Athletic Conference",
+    "alias": "ODAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:26:36 +0000 ended @ 2025-12-03 22:26:36 +0000"
+}

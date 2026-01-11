@@ -1,0 +1,55 @@
+{
+  "id": "e1e5cda1-1ba9-4e43-bf0a-178c5e790ca2",
+  "name": "Golden Bulls",
+  "market": "Johnson C. Smith",
+  "alias": "JCSU",
+  "franchise": {
+    "id": "e1e5cda1-1ba9-4e43-bf0a-178c5e790ca2",
+    "name": "Golden Bulls"
+  },
+  "venue": {
+    "id": "2a99aa05-f3ef-406f-99a8-3de7340dda61",
+    "name": "Irwin Belk Complex",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "zip": "28216",
+    "address": "500 N Summit Avenue",
+    "capacity": 4500,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "sr_id": "sr:venue:40158",
+    "location": {
+      "lat": "35.2419",
+      "lng": "-80.8527"
+    }
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "327bb2ce-9582-4e8e-adcb-d297ed656d32",
+    "name": "Central Intercollegiate Athletic Association",
+    "alias": "CIAA"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "28a0a163-2fac-4ba2-a2c4-946c21ab57e5",
+      "name": "Kamarro Edmonds",
+      "jersey": "22",
+      "last_name": "Edmonds",
+      "first_name": "Kamarro",
+      "abbr_name": "K.Edmonds",
+      "weight": 230.0,
+      "height": 71,
+      "position": "RB",
+      "birth_place": "Havelock, NC, USA",
+      "status": "ACT",
+      "eligibility": "JR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

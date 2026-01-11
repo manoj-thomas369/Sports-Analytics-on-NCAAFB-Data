@@ -1,0 +1,39 @@
+{
+  "id": "31ae1b90-6963-4d51-86dc-c3420dc5d499",
+  "name": "Steers",
+  "market": "Texas College",
+  "alias": "TEXC",
+  "franchise": {
+    "id": "31ae1b90-6963-4d51-86dc-c3420dc5d499",
+    "name": "Steers"
+  },
+  "venue": {
+    "id": "3d7d5c30-d54f-4876-afb0-40f330997b94",
+    "name": "Mewbourne Stadium",
+    "city": "Tyler",
+    "state": "TX",
+    "country": "USA",
+    "zip": "75701",
+    "address": "2695 S. SW Loop 323",
+    "capacity": 1600,
+    "surface": "artificial",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "32.3209",
+      "lng": "-95.3472"
+    }
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "e602d087-f616-4805-99b6-3e24a524561b",
+    "name": "Red River Athletic Conference",
+    "alias": "RED-RIVER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:27 +0000 ended @ 2025-12-03 22:51:27 +0000"
+}

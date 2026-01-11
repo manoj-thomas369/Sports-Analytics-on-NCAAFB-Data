@@ -1,0 +1,23 @@
+{
+  "id": "fe3d6610-e0c4-49d2-bf20-3885dec77c94",
+  "name": "ThunderWolves",
+  "market": "CSU-Pueblo",
+  "alias": "CSUP",
+  "franchise": {
+    "id": "fe3d6610-e0c4-49d2-bf20-3885dec77c94",
+    "name": "ThunderWolves"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "201ef749-4ed4-4474-88ce-91bc1119436e",
+    "name": "Rocky Mountain Athletic Conference",
+    "alias": "RMAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

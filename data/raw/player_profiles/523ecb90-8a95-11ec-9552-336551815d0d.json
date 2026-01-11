@@ -1,0 +1,254 @@
+{
+  "id": "523ecb90-8a95-11ec-9552-336551815d0d",
+  "name": "JQ Hardaway",
+  "jersey": "6",
+  "last_name": "Hardaway",
+  "first_name": "Jonquis",
+  "abbr_name": "J.Hardaway",
+  "preferred_name": "JQ",
+  "weight": 193.0,
+  "height": 75,
+  "position": "DB",
+  "birth_place": "Columbus, GA, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "5941ffa3-cdd5-459b-ab61-fef120b929b2",
+    "name": "Wildcats",
+    "market": "Kentucky",
+    "alias": "UK"
+  },
+  "seasons": [
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5941ffa3-cdd5-459b-ab61-fef120b929b2",
+          "name": "Wildcats",
+          "market": "Kentucky",
+          "alias": "UK",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        },
+        {
+          "id": "42a9a18b-b59a-408b-8cab-4e49cbe2c23a",
+          "name": "Bearcats",
+          "market": "Cincinnati",
+          "alias": "CIN",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 0,
+            "penalties": {
+              "penalties": 1,
+              "yards": 10,
+              "first_downs": 0
+            },
+            "defense": {
+              "tackles": 6,
+              "assists": 1,
+              "combined": 7,
+              "sacks": 1.0,
+              "sack_yards": 4.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 1,
+              "tloss": 2.0,
+              "tloss_yards": 5.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 1,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5941ffa3-cdd5-459b-ab61-fef120b929b2",
+          "name": "Wildcats",
+          "market": "Kentucky",
+          "alias": "UK",
+          "statistics": {
+            "games_played": 13,
+            "games_started": 1,
+            "defense": {
+              "tackles": 15,
+              "assists": 7,
+              "combined": 22,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 1,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 1.0,
+              "tloss_yards": 5.0,
+              "safeties": 0,
+              "sp_tackles": 4,
+              "sp_assists": 1,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5941ffa3-cdd5-459b-ab61-fef120b929b2",
+          "name": "Wildcats",
+          "market": "Kentucky",
+          "alias": "UK",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 12,
+            "penalties": {
+              "penalties": 1,
+              "yards": 15,
+              "first_downs": 0
+            },
+            "int_returns": {
+              "returns": 2,
+              "yards": -1,
+              "avg_yards": -0.5,
+              "touchdowns": 0,
+              "longest": 0,
+              "longest_touchdown": 0
+            },
+            "fumbles": {
+              "fumbles": 0,
+              "lost_fumbles": 0,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 1,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 34,
+              "assists": 13,
+              "combined": 47,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 2,
+              "passes_defended": 2,
+              "forced_fumbles": 1,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5941ffa3-cdd5-459b-ab61-fef120b929b2",
+          "name": "Wildcats",
+          "market": "Kentucky",
+          "alias": "UK",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 12,
+            "penalties": {
+              "penalties": 4,
+              "yards": 47,
+              "first_downs": 4
+            },
+            "int_returns": {
+              "returns": 1,
+              "yards": 0,
+              "avg_yards": 0.0,
+              "touchdowns": 0,
+              "longest": 0,
+              "longest_touchdown": 0
+            },
+            "defense": {
+              "tackles": 42,
+              "assists": 14,
+              "combined": 56,
+              "sacks": 1.0,
+              "sack_yards": 1.0,
+              "interceptions": 1,
+              "passes_defended": 1,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 1,
+              "tloss": 2.0,
+              "tloss_yards": 3.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:39 +0000 ended @ 2025-12-03 23:01:39 +0000"
+}

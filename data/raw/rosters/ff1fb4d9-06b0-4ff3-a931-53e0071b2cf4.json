@@ -1,0 +1,23 @@
+{
+  "id": "ff1fb4d9-06b0-4ff3-a931-53e0071b2cf4",
+  "name": "Firestorm",
+  "market": "Arizona Christian",
+  "alias": "ACU",
+  "franchise": {
+    "id": "ff1fb4d9-06b0-4ff3-a931-53e0071b2cf4",
+    "name": "Firestorm"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "50a92c00-888a-40c3-b223-9624dec9f2bd",
+    "name": "Sooner Athletic Conference",
+    "alias": "SOONER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

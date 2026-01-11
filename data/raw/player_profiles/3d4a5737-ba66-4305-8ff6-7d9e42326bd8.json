@@ -1,0 +1,113 @@
+{
+  "id": "3d4a5737-ba66-4305-8ff6-7d9e42326bd8",
+  "name": "Anthony Rosas",
+  "jersey": "55",
+  "last_name": "Rosas",
+  "first_name": "Anthony",
+  "abbr_name": "A.Rosas",
+  "weight": 330.0,
+  "height": 75,
+  "position": "OL",
+  "birth_place": "Baldwin Park, CA, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "c556a8d0-3c67-4a02-a3ba-2e74398ba3f2",
+    "name": "Wildcats",
+    "market": "Abilene Christian",
+    "alias": "AC"
+  },
+  "seasons": [
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5f105ef1-4d01-45a5-bfbb-497ee86a8eba",
+          "name": "Rebels",
+          "market": "UNLV",
+          "alias": "UNLV",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5f105ef1-4d01-45a5-bfbb-497ee86a8eba",
+          "name": "Rebels",
+          "market": "UNLV",
+          "alias": "UNLV",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5f105ef1-4d01-45a5-bfbb-497ee86a8eba",
+          "name": "Rebels",
+          "market": "UNLV",
+          "alias": "UNLV",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5f105ef1-4d01-45a5-bfbb-497ee86a8eba",
+          "name": "Rebels",
+          "market": "UNLV",
+          "alias": "UNLV",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "c556a8d0-3c67-4a02-a3ba-2e74398ba3f2",
+          "name": "Wildcats",
+          "market": "Abilene Christian",
+          "alias": "AC",
+          "statistics": {
+            "games_played": 7,
+            "games_started": 1
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-07 00:23:51 +0000 ended @ 2025-12-07 00:23:51 +0000"
+}

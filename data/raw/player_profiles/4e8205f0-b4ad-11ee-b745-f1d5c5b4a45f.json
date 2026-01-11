@@ -1,0 +1,64 @@
+{
+  "id": "4e8205f0-b4ad-11ee-b745-f1d5c5b4a45f",
+  "name": "Miles Lockhart",
+  "jersey": "13",
+  "last_name": "Lockhart",
+  "first_name": "Miles",
+  "abbr_name": "M.Lockhart",
+  "weight": 197.0,
+  "height": 69,
+  "position": "CB",
+  "birth_place": "Chandler, AZ, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "9a6d6f3f-021e-4ddd-8fac-ac4766239d87",
+    "name": "Buckeyes",
+    "market": "Ohio State",
+    "alias": "OSU"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "9a6d6f3f-021e-4ddd-8fac-ac4766239d87",
+          "name": "Buckeyes",
+          "market": "Ohio State",
+          "alias": "OSU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "9a6d6f3f-021e-4ddd-8fac-ac4766239d87",
+          "name": "Buckeyes",
+          "market": "Ohio State",
+          "alias": "OSU",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 0,
+            "penalties": {
+              "penalties": 1,
+              "yards": 12,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-07 05:20:18 +0000 ended @ 2025-12-07 05:20:18 +0000"
+}

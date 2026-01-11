@@ -1,0 +1,38 @@
+{
+  "id": "ba0c6a1b-ff0c-4b8e-acab-08465b68b00b",
+  "name": "Buffaloes",
+  "market": "West Texas A&M",
+  "alias": "WTAMU",
+  "franchise": {
+    "id": "ba0c6a1b-ff0c-4b8e-acab-08465b68b00b",
+    "name": "Buffaloes"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "9c49443e-fa63-446e-8b87-9e5d369c8392",
+    "name": "Lone Star Conference",
+    "alias": "LSC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "9b705bac-4bd7-4c2a-aed6-b206c8a44309",
+      "name": "Montaye Dawson",
+      "jersey": "0",
+      "last_name": "Dawson",
+      "first_name": "Montaye",
+      "abbr_name": "M.Dawson",
+      "weight": 165.0,
+      "height": 67,
+      "position": "RB",
+      "birth_place": "Dallas, TX, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:49 +0000 ended @ 2025-12-03 22:29:49 +0000"
+}

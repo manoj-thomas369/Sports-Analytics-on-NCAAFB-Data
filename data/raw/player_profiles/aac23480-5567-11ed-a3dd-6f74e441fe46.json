@@ -1,0 +1,41 @@
+{
+  "id": "aac23480-5567-11ed-a3dd-6f74e441fe46",
+  "name": "Dalvin Bond",
+  "jersey": "25",
+  "last_name": "Bond",
+  "first_name": "Dalvin",
+  "abbr_name": "D.Bond",
+  "weight": 190.0,
+  "height": 71,
+  "position": "DB",
+  "birth_place": "Plant City, FL, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "c4ae5e6a-75dd-47ad-8a5f-6aa5b20cc2cb",
+    "name": "Lions",
+    "market": "Florida Memorial",
+    "alias": "FMU"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "c4ae5e6a-75dd-47ad-8a5f-6aa5b20cc2cb",
+          "name": "Lions",
+          "market": "Florida Memorial",
+          "alias": "FMU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:24:22 +0000 ended @ 2025-12-03 23:24:22 +0000"
+}

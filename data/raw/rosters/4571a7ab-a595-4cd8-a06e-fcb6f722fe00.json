@@ -1,0 +1,23 @@
+{
+  "id": "4571a7ab-a595-4cd8-a06e-fcb6f722fe00",
+  "name": "Bulldogs",
+  "market": "Montana-Western",
+  "alias": "UMW",
+  "franchise": {
+    "id": "4571a7ab-a595-4cd8-a06e-fcb6f722fe00",
+    "name": "Bulldogs"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "310a49d2-421b-4f00-9b6c-2e5cf312c9f6",
+    "name": "Frontier Conference",
+    "alias": "FRONTIER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:16:05 +0000 ended @ 2025-12-03 23:16:05 +0000"
+}

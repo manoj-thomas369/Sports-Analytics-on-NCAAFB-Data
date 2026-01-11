@@ -1,0 +1,23 @@
+{
+  "id": "c717c1e3-3ab7-439c-9b75-dff83fc138f5",
+  "name": "Swedes",
+  "market": "Bethany (KS)",
+  "alias": "BETH",
+  "franchise": {
+    "id": "c717c1e3-3ab7-439c-9b75-dff83fc138f5",
+    "name": "Swedes"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "f2ca3f96-4628-46e4-95c0-444cab0effef",
+    "name": "Kansas Collegiate Athletic Conference",
+    "alias": "KCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:01:26 +0000 ended @ 2025-12-03 23:01:26 +0000"
+}

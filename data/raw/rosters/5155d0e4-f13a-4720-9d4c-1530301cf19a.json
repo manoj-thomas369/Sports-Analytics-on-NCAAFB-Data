@@ -1,0 +1,23 @@
+{
+  "id": "5155d0e4-f13a-4720-9d4c-1530301cf19a",
+  "name": "Blue Bears",
+  "market": "Livingstone",
+  "alias": "LVSC",
+  "franchise": {
+    "id": "5155d0e4-f13a-4720-9d4c-1530301cf19a",
+    "name": "Blue Bears"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "327bb2ce-9582-4e8e-adcb-d297ed656d32",
+    "name": "Central Intercollegiate Athletic Association",
+    "alias": "CIAA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

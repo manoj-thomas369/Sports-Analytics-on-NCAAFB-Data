@@ -1,0 +1,41 @@
+{
+  "id": "ecab3450-7af3-11f0-afbb-4dd5f6dcb3a7",
+  "name": "NaCari McFarland",
+  "jersey": "5",
+  "last_name": "McFarland",
+  "first_name": "NaCari",
+  "abbr_name": "N.McFarland",
+  "weight": 220.0,
+  "height": 79,
+  "position": "QB",
+  "birth_place": "Broadview, IL, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "c6ce892d-c14d-44cd-ad3a-7d4ed60ee1f9",
+    "name": "Runnin' Bulldogs",
+    "market": "Gardner-Webb",
+    "alias": "WEBB"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "c6ce892d-c14d-44cd-ad3a-7d4ed60ee1f9",
+          "name": "Runnin' Bulldogs",
+          "market": "Gardner-Webb",
+          "alias": "WEBB",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:23 +0000 ended @ 2025-12-03 23:01:23 +0000"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12271f62-34bc-47b9-9c9e-f35d9a1de4e6",
+  "name": "Lions",
+  "market": "Missouri Southern State",
+  "alias": "MSSU",
+  "franchise": {
+    "id": "12271f62-34bc-47b9-9c9e-f35d9a1de4e6",
+    "name": "Lions"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "442a3894-7884-4de6-b564-f9c44ddb4a04",
+    "name": "Mid-America Intercollegiate Athletics Association",
+    "alias": "MIAA"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "dcc894ff-575c-4f9d-9db1-e0e24a5267f2",
+      "name": "Michael Thompson",
+      "jersey": "0",
+      "last_name": "Thompson",
+      "first_name": "Michael",
+      "abbr_name": "M.Thompson",
+      "weight": 324.0,
+      "height": 77,
+      "position": "OL",
+      "birth_place": "St. Louis, MO, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:14:31 +0000 ended @ 2025-12-03 23:14:31 +0000"
+}

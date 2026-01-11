@@ -1,0 +1,23 @@
+{
+  "id": "ce773fda-b51b-40d0-84f8-51b3a174884c",
+  "name": "Cougars",
+  "market": "Saint Xavier",
+  "alias": "SXU",
+  "franchise": {
+    "id": "ce773fda-b51b-40d0-84f8-51b3a174884c",
+    "name": "Cougars"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "290e49a9-257c-45a8-99d2-296c13f247e7",
+    "name": "Chicagoland Collegiate Athletic Conference",
+    "alias": "CCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

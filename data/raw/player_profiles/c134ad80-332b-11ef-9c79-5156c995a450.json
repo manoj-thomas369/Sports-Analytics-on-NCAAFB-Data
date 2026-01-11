@@ -1,0 +1,22 @@
+{
+  "id": "c134ad80-332b-11ef-9c79-5156c995a450",
+  "name": "Bryce Rushing",
+  "jersey": "92",
+  "last_name": "Rushing",
+  "first_name": "Bryce",
+  "abbr_name": "B.Rushing",
+  "weight": 260.0,
+  "height": 75,
+  "position": "DL",
+  "birth_place": "Alexandria, LA, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "60bf074e-d9de-4b4c-826d-dda5cbdd33df",
+    "name": "Bisons",
+    "market": "Harding",
+    "alias": "HARD"
+  },
+  "seasons": [],
+  "_comment": "Generation started @ 2025-12-03 23:02:26 +0000 ended @ 2025-12-03 23:02:26 +0000"
+}

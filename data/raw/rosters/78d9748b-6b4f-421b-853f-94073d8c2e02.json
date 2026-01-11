@@ -1,0 +1,23 @@
+{
+  "id": "78d9748b-6b4f-421b-853f-94073d8c2e02",
+  "name": "Blue Knights",
+  "market": "Urbana",
+  "alias": "URB",
+  "franchise": {
+    "id": "78d9748b-6b4f-421b-853f-94073d8c2e02",
+    "name": "Blue Knights"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "663b118f-d664-4fd2-adea-7dbd1f997e12",
+    "name": "Mountain East Conference",
+    "alias": "MEC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:48 +0000 ended @ 2025-12-03 22:29:48 +0000"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "8d651eb7-14f8-4bae-a490-276cef79111b",
+  "name": "Eagles",
+  "market": "Ashland",
+  "alias": "ASHL",
+  "franchise": {
+    "id": "8d651eb7-14f8-4bae-a490-276cef79111b",
+    "name": "Eagles"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "74997452-1234-43f9-8903-a1da76d6d591",
+    "name": "Great Midwest Athletic Conference",
+    "alias": "G-MAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "042bf498-6b8e-43df-ad76-04ddeda421e6",
+      "name": "Jourdan Swett",
+      "jersey": "12",
+      "last_name": "Swett",
+      "first_name": "Jourdan",
+      "abbr_name": "J.Swett",
+      "weight": 191.0,
+      "height": 74,
+      "position": "CB",
+      "birth_place": "Nashville, TN, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    },
+    {
+      "id": "34abf440-103c-11ed-830d-b7f817731eb9",
+      "name": "Isaiah Henderson",
+      "jersey": "0",
+      "last_name": "Henderson",
+      "first_name": "Isaiah",
+      "abbr_name": "I.Henderson",
+      "weight": 175.0,
+      "height": 75,
+      "position": "SAF",
+      "birth_place": "Reynoldsburg, OH, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:48 +0000 ended @ 2025-12-03 22:29:48 +0000"
+}

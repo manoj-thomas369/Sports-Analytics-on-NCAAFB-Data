@@ -1,0 +1,23 @@
+{
+  "id": "f9892793-047e-4c2f-90c3-f705bc95e8a0",
+  "name": "Moundbuilders",
+  "market": "Southwestern (KS)",
+  "alias": "SWC",
+  "franchise": {
+    "id": "f9892793-047e-4c2f-90c3-f705bc95e8a0",
+    "name": "Moundbuilders"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "f2ca3f96-4628-46e4-95c0-444cab0effef",
+    "name": "Kansas Collegiate Athletic Conference",
+    "alias": "KCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:06:23 +0000 ended @ 2025-12-03 23:06:23 +0000"
+}

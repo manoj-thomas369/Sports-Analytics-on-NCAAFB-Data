@@ -1,0 +1,23 @@
+{
+  "id": "6d9085d7-1a8a-4714-b8ee-d8a1b00d6a92",
+  "name": "Aggies",
+  "market": "Oklahoma Panhandle State",
+  "alias": "OPSU",
+  "franchise": {
+    "id": "6d9085d7-1a8a-4714-b8ee-d8a1b00d6a92",
+    "name": "Aggies"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "50a92c00-888a-40c3-b223-9624dec9f2bd",
+    "name": "Sooner Athletic Conference",
+    "alias": "SOONER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:25 +0000 ended @ 2025-12-03 22:51:25 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "187d4a95-91e1-4db4-a8dd-8a412bab73e4",
+  "name": "Tigers",
+  "market": "East Central",
+  "alias": "ECNT",
+  "franchise": {
+    "id": "187d4a95-91e1-4db4-a8dd-8a412bab73e4",
+    "name": "Tigers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "c50ae630-0e03-11ed-a682-73055c6ec33d",
+  "name": "Jake Bingham",
+  "jersey": "62",
+  "last_name": "Bingham",
+  "first_name": "Jake",
+  "abbr_name": "J.Bingham",
+  "weight": 290.0,
+  "height": 75,
+  "position": "OL",
+  "birth_place": "Virginia Beach, VA, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "44c0deff-f542-4afe-a5c7-43df3bd51d5b",
+    "name": "Quakers",
+    "market": "Penn",
+    "alias": "PENN"
+  },
+  "seasons": [
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "44c0deff-f542-4afe-a5c7-43df3bd51d5b",
+          "name": "Quakers",
+          "market": "Penn",
+          "alias": "PENN",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "44c0deff-f542-4afe-a5c7-43df3bd51d5b",
+          "name": "Quakers",
+          "market": "Penn",
+          "alias": "PENN",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "44c0deff-f542-4afe-a5c7-43df3bd51d5b",
+          "name": "Quakers",
+          "market": "Penn",
+          "alias": "PENN",
+          "statistics": {
+            "games_played": 6,
+            "games_started": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "44c0deff-f542-4afe-a5c7-43df3bd51d5b",
+          "name": "Quakers",
+          "market": "Penn",
+          "alias": "PENN",
+          "statistics": {
+            "games_played": 7,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:37 +0000 ended @ 2025-12-03 23:02:37 +0000"
+}

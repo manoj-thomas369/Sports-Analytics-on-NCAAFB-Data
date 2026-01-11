@@ -1,0 +1,23 @@
+{
+  "id": "22739891-4203-4907-9b2c-2a416d007105",
+  "name": "Eagles",
+  "market": "Carson-Newman",
+  "alias": "CNU",
+  "franchise": {
+    "id": "22739891-4203-4907-9b2c-2a416d007105",
+    "name": "Eagles"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "151998c5-80e4-466f-aafe-0c25eb62de75",
+    "name": "South Atlantic Conference",
+    "alias": "SAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

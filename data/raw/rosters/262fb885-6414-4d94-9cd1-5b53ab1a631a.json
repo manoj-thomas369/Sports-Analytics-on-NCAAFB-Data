@@ -1,0 +1,38 @@
+{
+  "id": "262fb885-6414-4d94-9cd1-5b53ab1a631a",
+  "name": "Tigers",
+  "market": "West Alabama",
+  "alias": "UWA",
+  "franchise": {
+    "id": "262fb885-6414-4d94-9cd1-5b53ab1a631a",
+    "name": "Tigers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "2d58e0bd-e249-48f5-b531-c22f5cf6e264",
+    "name": "Gulf South Conference",
+    "alias": "GSC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "5c217609-f294-4a14-8741-0f8974e6ab87",
+      "name": "Spencer Arceneaux",
+      "jersey": "0",
+      "last_name": "Arceneaux",
+      "first_name": "Spencer",
+      "abbr_name": "S.Arceneaux",
+      "weight": 180.0,
+      "height": 73,
+      "position": "QB",
+      "birth_place": "Mobile, AL, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

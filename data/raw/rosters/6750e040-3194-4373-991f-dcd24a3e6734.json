@@ -1,0 +1,23 @@
+{
+  "id": "6750e040-3194-4373-991f-dcd24a3e6734",
+  "name": "Warriors",
+  "market": "East Stroudsburg",
+  "alias": "ESU",
+  "franchise": {
+    "id": "6750e040-3194-4373-991f-dcd24a3e6734",
+    "name": "Warriors"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "b42fbccc-5182-40bf-8d99-213a80dcf327",
+    "name": "Pennsylvania State Athletic Conference",
+    "alias": "PSAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:14:52 +0000 ended @ 2025-12-03 23:14:52 +0000"
+}

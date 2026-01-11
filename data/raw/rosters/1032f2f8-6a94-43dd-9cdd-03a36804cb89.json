@@ -1,0 +1,23 @@
+{
+  "id": "1032f2f8-6a94-43dd-9cdd-03a36804cb89",
+  "name": "Bulldogs",
+  "market": "Union (KY)",
+  "alias": "UNIC",
+  "franchise": {
+    "id": "1032f2f8-6a94-43dd-9cdd-03a36804cb89",
+    "name": "Bulldogs"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "68307cdb-1510-49f9-a185-5e0811d0368d",
+    "name": "Appalachian Athletic Conference",
+    "alias": "APAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

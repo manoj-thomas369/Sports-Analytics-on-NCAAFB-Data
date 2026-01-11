@@ -1,0 +1,41 @@
+{
+  "id": "be434590-3dda-11f0-ac85-fb01127da1f9",
+  "name": "Braylon Edwards",
+  "jersey": "66",
+  "last_name": "Edwards",
+  "first_name": "Braylon",
+  "abbr_name": "B.Edwards",
+  "weight": 301.0,
+  "height": 74,
+  "position": "OL",
+  "birth_place": "Cedar Rapids, IA, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "36680161-4534-4723-bc72-84066a84ffe9",
+    "name": "Tommies",
+    "market": "St. Thomas",
+    "alias": "UST"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "36680161-4534-4723-bc72-84066a84ffe9",
+          "name": "Tommies",
+          "market": "St. Thomas",
+          "alias": "UST",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:00:22 +0000 ended @ 2025-12-03 23:00:22 +0000"
+}

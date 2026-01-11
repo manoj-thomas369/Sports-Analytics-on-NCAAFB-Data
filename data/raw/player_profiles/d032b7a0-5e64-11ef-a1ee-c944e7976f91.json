@@ -1,0 +1,111 @@
+{
+  "id": "d032b7a0-5e64-11ef-a1ee-c944e7976f91",
+  "name": "Connor Rowlison",
+  "jersey": "29",
+  "last_name": "Rowlison",
+  "first_name": "Connor",
+  "abbr_name": "C.Rowlison",
+  "weight": 205.0,
+  "height": 73,
+  "position": "DB",
+  "birth_place": "Avon, OH, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+    "name": "Raiders",
+    "market": "Colgate",
+    "alias": "COLG"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+          "name": "Raiders",
+          "market": "Colgate",
+          "alias": "COLG",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 1,
+            "defense": {
+              "tackles": 2,
+              "assists": 1,
+              "combined": 3,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "84a2e6d9-1c1b-47f0-ba71-10dc03f05a0f",
+          "name": "Raiders",
+          "market": "Colgate",
+          "alias": "COLG",
+          "statistics": {
+            "games_played": 8,
+            "games_started": 0,
+            "defense": {
+              "tackles": 2,
+              "assists": 0,
+              "combined": 2,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:24:35 +0000 ended @ 2025-12-03 23:24:35 +0000"
+}

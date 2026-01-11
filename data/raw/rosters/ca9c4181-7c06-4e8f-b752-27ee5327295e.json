@@ -1,0 +1,23 @@
+{
+  "id": "ca9c4181-7c06-4e8f-b752-27ee5327295e",
+  "name": "Rams",
+  "market": "Angelo State",
+  "alias": "ANGS",
+  "franchise": {
+    "id": "ca9c4181-7c06-4e8f-b752-27ee5327295e",
+    "name": "Rams"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "9c49443e-fa63-446e-8b87-9e5d369c8392",
+    "name": "Lone Star Conference",
+    "alias": "LSC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:49 +0000 ended @ 2025-12-03 22:29:49 +0000"
+}

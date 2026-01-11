@@ -1,0 +1,23 @@
+{
+  "id": "f33ab85a-2f44-43ea-85e0-155e97561b8e",
+  "name": "Glory Eagles",
+  "market": "University of Faith",
+  "alias": "UF-Eagles",
+  "franchise": {
+    "id": "f33ab85a-2f44-43ea-85e0-155e97561b8e",
+    "name": "Glory Eagles"
+  },
+  "division": {
+    "id": "aa5db6ca-f9b2-4ab9-8e07-6a249ddf0c82",
+    "name": "USCAA",
+    "alias": "USCAA"
+  },
+  "conference": {
+    "id": "ab0298d3-527e-40c8-ae4b-f328e5303aa6",
+    "name": "USCAA Independents",
+    "alias": "USCAA-INDEPENDENTS"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

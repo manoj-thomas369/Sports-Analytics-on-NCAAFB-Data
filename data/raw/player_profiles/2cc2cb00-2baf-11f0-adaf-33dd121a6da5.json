@@ -1,0 +1,67 @@
+{
+  "id": "2cc2cb00-2baf-11f0-adaf-33dd121a6da5",
+  "name": "Christian Jones",
+  "jersey": "50",
+  "last_name": "Jones",
+  "first_name": "Christian",
+  "abbr_name": "C.Jones",
+  "weight": 235.0,
+  "height": 74,
+  "position": "LB",
+  "birth_place": "Elkhorn, NE, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "98833e65-ab72-482d-b3c0-13f8656629c0",
+    "name": "Cornhuskers",
+    "market": "Nebraska",
+    "alias": "NEB"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "98833e65-ab72-482d-b3c0-13f8656629c0",
+          "name": "Cornhuskers",
+          "market": "Nebraska",
+          "alias": "NEB",
+          "statistics": {
+            "games_played": 2,
+            "games_started": 0,
+            "defense": {
+              "tackles": 1,
+              "assists": 0,
+              "combined": 1,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:25:55 +0000 ended @ 2025-12-03 23:25:55 +0000"
+}

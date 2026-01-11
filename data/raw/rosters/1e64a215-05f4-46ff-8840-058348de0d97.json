@@ -1,0 +1,23 @@
+{
+  "id": "1e64a215-05f4-46ff-8840-058348de0d97",
+  "name": "Spartans",
+  "market": "Missouri Baptist",
+  "alias": "MBU",
+  "franchise": {
+    "id": "1e64a215-05f4-46ff-8840-058348de0d97",
+    "name": "Spartans"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "5b0d932e-2cf4-4a19-a2fd-e6e3d6ee8e7a",
+    "name": "American Midwest Conference",
+    "alias": "AMC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

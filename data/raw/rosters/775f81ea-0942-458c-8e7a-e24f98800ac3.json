@@ -1,0 +1,52 @@
+{
+  "id": "775f81ea-0942-458c-8e7a-e24f98800ac3",
+  "name": "Grizzlies",
+  "market": "Adams State",
+  "alias": "ADAM",
+  "franchise": {
+    "id": "775f81ea-0942-458c-8e7a-e24f98800ac3",
+    "name": "Grizzlies"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "201ef749-4ed4-4474-88ce-91bc1119436e",
+    "name": "Rocky Mountain Athletic Conference",
+    "alias": "RMAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "3a23a6aa-32b8-4d90-b350-15ec232aaeb8",
+      "name": "Steavenson Fernand",
+      "jersey": "83",
+      "last_name": "Fernand",
+      "first_name": "Steavenson",
+      "abbr_name": "S.Fernand",
+      "weight": 190.0,
+      "height": 75,
+      "position": "WR",
+      "birth_place": "Davie, FL, USA",
+      "status": "ACT",
+      "eligibility": "SR"
+    },
+    {
+      "id": "a75192d0-a67c-11ed-bb37-d3c7ba758cc3",
+      "name": "Niko Alailefaleula",
+      "jersey": "0",
+      "last_name": "Alailefaleula",
+      "first_name": "Niko",
+      "abbr_name": "N.Alailefaleula",
+      "weight": 220.0,
+      "height": 69,
+      "position": "LB",
+      "birth_place": "Anchorage, AK, USA",
+      "status": "ACT",
+      "eligibility": "FR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:41:26 +0000 ended @ 2025-12-03 22:41:26 +0000"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "3646ccd3-6fb0-487c-9fb2-6ad9056d68d2",
+  "name": "Alex Williams",
+  "jersey": "12",
+  "last_name": "Williams",
+  "first_name": "Alex",
+  "abbr_name": "A.Williams",
+  "weight": 240.0,
+  "height": 76,
+  "position": "TE",
+  "birth_place": "Geneva, IL, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "2516eb07-9a48-436c-b8ee-c14eae88a310",
+    "name": "Leathernecks",
+    "market": "Western Illinois",
+    "alias": "WIU"
+  },
+  "seasons": [
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "e65ef52d-6a34-426e-816e-040258d2f33b",
+          "name": "Hilltoppers",
+          "market": "Western Kentucky",
+          "alias": "WKU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "e65ef52d-6a34-426e-816e-040258d2f33b",
+          "name": "Hilltoppers",
+          "market": "Western Kentucky",
+          "alias": "WKU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "e65ef52d-6a34-426e-816e-040258d2f33b",
+          "name": "Hilltoppers",
+          "market": "Western Kentucky",
+          "alias": "WKU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "2516eb07-9a48-436c-b8ee-c14eae88a310",
+          "name": "Leathernecks",
+          "market": "Western Illinois",
+          "alias": "WIU",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 4,
+            "receiving": {
+              "receptions": 6,
+              "targets": 7,
+              "yards": 63,
+              "avg_yards": 10.5,
+              "longest": 20,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 4,
+              "redzone_targets": 0,
+              "air_yards": 59,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "2516eb07-9a48-436c-b8ee-c14eae88a310",
+          "name": "Leathernecks",
+          "market": "Western Illinois",
+          "alias": "WIU",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 7,
+            "rushing": {
+              "avg_yards": -4.0,
+              "attempts": 1,
+              "touchdowns": 0,
+              "yards": -4,
+              "longest": 0,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0,
+              "tlost": 0,
+              "tlost_yards": 0,
+              "first_downs": 0
+            },
+            "receiving": {
+              "receptions": 23,
+              "targets": 24,
+              "yards": 240,
+              "avg_yards": 10.435,
+              "longest": 28,
+              "touchdowns": 8,
+              "longest_touchdown": 0,
+              "yards_after_catch": 28,
+              "redzone_targets": 1,
+              "air_yards": 212,
+              "first_downs": 2
+            },
+            "passing": {
+              "attempts": 1,
+              "completions": 0,
+              "cmp_pct": 0.0,
+              "yards": 0,
+              "avg_yards": 0.0,
+              "sacks": 0,
+              "sack_yards": 0,
+              "touchdowns": 0,
+              "longest": 0,
+              "interceptions": 0,
+              "rating": 0.0,
+              "longest_touchdown": 0,
+              "air_yards": 0,
+              "redzone_attempts": 0,
+              "gross_yards": 0,
+              "first_downs": 0,
+              "int_touchdowns": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:13 +0000 ended @ 2025-12-03 23:02:13 +0000"
+}

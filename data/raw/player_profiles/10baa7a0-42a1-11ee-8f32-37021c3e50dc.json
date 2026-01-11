@@ -1,0 +1,77 @@
+{
+  "id": "10baa7a0-42a1-11ee-8f32-37021c3e50dc",
+  "name": "Thomas Lauria",
+  "jersey": "53",
+  "last_name": "Lauria",
+  "first_name": "Thomas",
+  "abbr_name": "T.Lauria",
+  "weight": 210.0,
+  "height": 75,
+  "position": "LS",
+  "birth_place": "Gilbert, AZ, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "d8c41c53-e302-4425-b95d-532bdbf868a2",
+    "name": "Hornets",
+    "market": "Alabama State",
+    "alias": "ALST"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "d8c41c53-e302-4425-b95d-532bdbf868a2",
+          "name": "Hornets",
+          "market": "Alabama State",
+          "alias": "ALST",
+          "statistics": {
+            "games_played": 10,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "d8c41c53-e302-4425-b95d-532bdbf868a2",
+          "name": "Hornets",
+          "market": "Alabama State",
+          "alias": "ALST",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "d8c41c53-e302-4425-b95d-532bdbf868a2",
+          "name": "Hornets",
+          "market": "Alabama State",
+          "alias": "ALST",
+          "statistics": {
+            "games_played": 4,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:00:50 +0000 ended @ 2025-12-03 23:00:50 +0000"
+}

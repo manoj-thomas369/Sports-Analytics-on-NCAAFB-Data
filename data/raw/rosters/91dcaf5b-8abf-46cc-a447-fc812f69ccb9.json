@@ -1,0 +1,23 @@
+{
+  "id": "91dcaf5b-8abf-46cc-a447-fc812f69ccb9",
+  "name": "Battlers",
+  "market": "Alderson-Broaddus",
+  "alias": "ABU",
+  "franchise": {
+    "id": "91dcaf5b-8abf-46cc-a447-fc812f69ccb9",
+    "name": "Battlers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "663b118f-d664-4fd2-adea-7dbd1f997e12",
+    "name": "Mountain East Conference",
+    "alias": "MEC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:25 +0000 ended @ 2025-12-03 22:51:25 +0000"
+}

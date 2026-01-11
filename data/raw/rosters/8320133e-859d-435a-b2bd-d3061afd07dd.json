@@ -1,0 +1,23 @@
+{
+  "id": "8320133e-859d-435a-b2bd-d3061afd07dd",
+  "name": "Titans",
+  "market": "Wisconsin-Oshkosh",
+  "alias": "UWO",
+  "franchise": {
+    "id": "8320133e-859d-435a-b2bd-d3061afd07dd",
+    "name": "Titans"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "761bddcb-89e4-4ba7-9bc9-6d5dce0af9fa",
+    "name": "Wisconsin Athletic Conference",
+    "alias": "WIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:56:27 +0000 ended @ 2025-12-03 22:56:27 +0000"
+}

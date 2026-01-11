@@ -1,0 +1,59 @@
+{
+  "id": "bba5a620-b55f-11ee-a884-558ef703aace",
+  "name": "Dillon Gresham",
+  "jersey": "80",
+  "last_name": "Gresham",
+  "first_name": "Dillon",
+  "abbr_name": "D.Gresham",
+  "weight": 190.0,
+  "height": 72,
+  "position": "WR",
+  "birth_place": "Hemet, CA, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "5c218a3b-a013-4037-97b6-603c9502b701",
+    "name": "Ducks",
+    "market": "Oregon",
+    "alias": "ORE"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5c218a3b-a013-4037-97b6-603c9502b701",
+          "name": "Ducks",
+          "market": "Oregon",
+          "alias": "ORE",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "5c218a3b-a013-4037-97b6-603c9502b701",
+          "name": "Ducks",
+          "market": "Oregon",
+          "alias": "ORE",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:26 +0000 ended @ 2025-12-03 23:01:26 +0000"
+}

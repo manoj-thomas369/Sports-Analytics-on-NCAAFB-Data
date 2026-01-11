@@ -1,0 +1,23 @@
+{
+  "id": "0615f585-7564-4334-a0d0-ad00413ab7ae",
+  "name": "Bulldogs",
+  "market": "Ferris State",
+  "alias": "FERST",
+  "franchise": {
+    "id": "0615f585-7564-4334-a0d0-ad00413ab7ae",
+    "name": "Bulldogs"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "65e9fcaf-9ab3-484c-a238-150424c38159",
+    "name": "Great Lakes Intercollegiate Athletic Conference",
+    "alias": "GLIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

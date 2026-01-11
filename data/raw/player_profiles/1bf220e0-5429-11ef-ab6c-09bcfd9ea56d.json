@@ -1,0 +1,59 @@
+{
+  "id": "1bf220e0-5429-11ef-ab6c-09bcfd9ea56d",
+  "name": "Jason Smith",
+  "jersey": "67",
+  "last_name": "Smith",
+  "first_name": "Jason",
+  "abbr_name": "J.Smith",
+  "weight": 310.0,
+  "height": 75,
+  "position": "OL",
+  "birth_place": "Wilmington, NC, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "05639ea0-a3e6-4d56-b257-366545b0ff4d",
+    "name": "Spiders",
+    "market": "Richmond",
+    "alias": "RICH"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "79368b86-8bb0-4c66-8189-b836d039c207",
+          "name": "Tar Heels",
+          "market": "North Carolina",
+          "alias": "UNC",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "05639ea0-a3e6-4d56-b257-366545b0ff4d",
+          "name": "Spiders",
+          "market": "Richmond",
+          "alias": "RICH",
+          "statistics": {
+            "games_played": 9,
+            "games_started": 9
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:24:52 +0000 ended @ 2025-12-03 23:24:52 +0000"
+}

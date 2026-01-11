@@ -1,0 +1,59 @@
+{
+  "id": "bcccdd00-63f3-11ef-8726-8188f3aea094",
+  "name": "Gavin Williams",
+  "jersey": "8",
+  "last_name": "Williams",
+  "first_name": "Gavin",
+  "abbr_name": "G.Williams",
+  "weight": 175.0,
+  "height": 69,
+  "position": "DB",
+  "birth_place": "Trussville, AL, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "fbd30b5d-6d84-49f7-abf1-c2c73f9e2458",
+    "name": "Tigers",
+    "market": "Princeton",
+    "alias": "PRIN"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "fbd30b5d-6d84-49f7-abf1-c2c73f9e2458",
+          "name": "Tigers",
+          "market": "Princeton",
+          "alias": "PRIN",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "fbd30b5d-6d84-49f7-abf1-c2c73f9e2458",
+          "name": "Tigers",
+          "market": "Princeton",
+          "alias": "PRIN",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:25:05 +0000 ended @ 2025-12-03 23:25:05 +0000"
+}

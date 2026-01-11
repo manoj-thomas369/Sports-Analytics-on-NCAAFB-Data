@@ -1,0 +1,39 @@
+{
+  "id": "c56aa760-8357-11f0-8363-fba3b66233ce",
+  "name": "Travis Adams",
+  "jersey": "22",
+  "last_name": "Adams",
+  "first_name": "Travis",
+  "abbr_name": "T.Adams",
+  "position": "RB",
+  "birth_place": "Tioga, LA, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "dbfc255d-ee7c-4b1a-9b42-dd822f7ec901",
+    "name": "Wildcats",
+    "market": "Louisiana Christian",
+    "alias": "LC"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "dbfc255d-ee7c-4b1a-9b42-dd822f7ec901",
+          "name": "Wildcats",
+          "market": "Louisiana Christian",
+          "alias": "LC",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:39:08 +0000 ended @ 2025-12-03 22:39:08 +0000"
+}

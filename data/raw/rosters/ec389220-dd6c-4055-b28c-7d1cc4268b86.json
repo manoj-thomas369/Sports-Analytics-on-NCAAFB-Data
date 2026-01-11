@@ -1,0 +1,23 @@
+{
+  "id": "ec389220-dd6c-4055-b28c-7d1cc4268b86",
+  "name": "Oaks",
+  "market": "Menlo",
+  "alias": "MEN",
+  "franchise": {
+    "id": "ec389220-dd6c-4055-b28c-7d1cc4268b86",
+    "name": "Oaks"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "a738a0f0-d2a2-4a42-b2ec-8e5c1b101e2e",
+    "name": "California Pacific Conference",
+    "alias": "CAL-PAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

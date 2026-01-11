@@ -1,0 +1,23 @@
+{
+  "id": "a1a53b67-106e-4e1b-8a0d-a1d9790f6fda",
+  "name": "Blue Tigers",
+  "market": "Lincoln (MO)",
+  "alias": "LCLN",
+  "franchise": {
+    "id": "a1a53b67-106e-4e1b-8a0d-a1d9790f6fda",
+    "name": "Blue Tigers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "442a3894-7884-4de6-b564-f9c44ddb4a04",
+    "name": "Mid-America Intercollegiate Athletics Association",
+    "alias": "MIAA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

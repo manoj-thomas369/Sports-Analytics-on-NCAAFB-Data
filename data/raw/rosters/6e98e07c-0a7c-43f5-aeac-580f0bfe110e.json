@@ -1,0 +1,47 @@
+{
+  "id": "6e98e07c-0a7c-43f5-aeac-580f0bfe110e",
+  "name": "Tigers",
+  "market": "Wittenberg",
+  "alias": "WITT",
+  "franchise": {
+    "id": "6e98e07c-0a7c-43f5-aeac-580f0bfe110e",
+    "name": "Tigers"
+  },
+  "venue": {
+    "id": "b8993a1d-e7d8-448d-932b-3405e03f4dea",
+    "name": "Edwards-Maurer Field",
+    "city": "Springfield",
+    "state": "OH",
+    "country": "USA",
+    "zip": "45504",
+    "address": "Home Place",
+    "capacity": 3000,
+    "surface": "artificial",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "39.9378",
+      "lng": "-83.8121"
+    }
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "d57dc97d-1c5f-4783-9900-5f5958ded436",
+    "name": "North Coast Athletic Conference",
+    "alias": "NCAC"
+  },
+  "coaches": [
+    {
+      "id": "3715a05e-4a02-43e6-b1bb-ca2b220fe956",
+      "full_name": "Joe Fincham",
+      "first_name": "Joe",
+      "last_name": "Fincham",
+      "position": "Head Coach"
+    }
+  ],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:55 +0000 ended @ 2025-12-03 22:29:55 +0000"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ff7604d0-8f46-11ec-9f33-1965c9c46e44",
+  "name": "Dominic Wiseman",
+  "jersey": "96",
+  "last_name": "Wiseman",
+  "first_name": "Dominic",
+  "abbr_name": "D.Wiseman",
+  "weight": 300.0,
+  "height": 74,
+  "position": "DL",
+  "birth_place": "Davenport, IA, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "b6fa0a24-da86-4c1d-aed7-7aad175cd249",
+    "name": "Jaguars",
+    "market": "South Alabama",
+    "alias": "USA"
+  },
+  "seasons": [
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "a2ee495d-37c7-45ac-ac3d-d3a492a219c1",
+          "name": "Hawkeyes",
+          "market": "Iowa",
+          "alias": "IOWA",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "b6fa0a24-da86-4c1d-aed7-7aad175cd249",
+          "name": "Jaguars",
+          "market": "South Alabama",
+          "alias": "USA",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 6,
+            "penalties": {
+              "penalties": 2,
+              "yards": 7,
+              "first_downs": 1
+            },
+            "fumbles": {
+              "fumbles": 0,
+              "lost_fumbles": 0,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 1,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 12,
+              "assists": 11,
+              "combined": 23,
+              "sacks": 1.0,
+              "sack_yards": 9.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 1,
+              "fumble_recoveries": 0,
+              "qb_hits": 1,
+              "tloss": 2.0,
+              "tloss_yards": 10.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-13 22:34:02 +0000 ended @ 2025-12-13 22:34:02 +0000"
+}

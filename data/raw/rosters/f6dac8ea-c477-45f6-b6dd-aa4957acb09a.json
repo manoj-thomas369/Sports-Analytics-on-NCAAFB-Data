@@ -1,0 +1,23 @@
+{
+  "id": "f6dac8ea-c477-45f6-b6dd-aa4957acb09a",
+  "name": "Tartans",
+  "market": "Carnegie Mellon",
+  "alias": "CM",
+  "franchise": {
+    "id": "f6dac8ea-c477-45f6-b6dd-aa4957acb09a",
+    "name": "Tartans"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "b43d0cd2-5c9e-45ba-af85-35a2dcedafa8",
+    "name": "Presidents Athletic Conference",
+    "alias": "PAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:55 +0000 ended @ 2025-12-03 22:29:55 +0000"
+}

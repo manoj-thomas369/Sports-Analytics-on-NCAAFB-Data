@@ -1,0 +1,41 @@
+{
+  "id": "6ff9f030-8eae-11f0-baca-f3fea427c14c",
+  "name": "Damien Williams",
+  "jersey": "34",
+  "last_name": "Williams",
+  "first_name": "Damien",
+  "abbr_name": "D.Williams",
+  "weight": 178.0,
+  "height": 72,
+  "position": "DB",
+  "birth_place": "Waynesboro, GA, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "dc99beff-fa60-40a8-8b8a-316f7cea3e93",
+    "name": "Golden Rams",
+    "market": "Albany State",
+    "alias": "ALSU"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "dc99beff-fa60-40a8-8b8a-316f7cea3e93",
+          "name": "Golden Rams",
+          "market": "Albany State",
+          "alias": "ALSU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:00:51 +0000 ended @ 2025-12-03 23:00:51 +0000"
+}

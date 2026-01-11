@@ -1,0 +1,103 @@
+{
+  "id": "256a7d70-16bd-11ee-8357-d9ad84568c28",
+  "name": "Bryce Echols",
+  "jersey": "56",
+  "last_name": "Echols",
+  "first_name": "Bryce",
+  "abbr_name": "B.Echols",
+  "weight": 273.0,
+  "height": 77,
+  "position": "DL",
+  "birth_place": "Las Vegas, NV, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "0c8fc8f1-0659-49dd-8668-436c3812089e",
+    "name": "Wolf Pack",
+    "market": "Nevada",
+    "alias": "NEV"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "9e33183c-7e35-4738-9051-719dd7b32e9c",
+          "name": "Wildcats",
+          "market": "Arizona",
+          "alias": "ARIZ",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "9e33183c-7e35-4738-9051-719dd7b32e9c",
+          "name": "Wildcats",
+          "market": "Arizona",
+          "alias": "ARIZ",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "0c8fc8f1-0659-49dd-8668-436c3812089e",
+          "name": "Wolf Pack",
+          "market": "Nevada",
+          "alias": "NEV",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 0,
+            "defense": {
+              "tackles": 0,
+              "assists": 1,
+              "combined": 1,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 1.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:27 +0000 ended @ 2025-12-03 23:01:27 +0000"
+}

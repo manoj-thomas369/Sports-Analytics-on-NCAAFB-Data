@@ -1,0 +1,23 @@
+{
+  "id": "6ea445c8-99a8-4952-8979-d27b7a39e26b",
+  "name": "Mountaineers",
+  "market": "Eastern Oregon",
+  "alias": "EOR",
+  "franchise": {
+    "id": "6ea445c8-99a8-4952-8979-d27b7a39e26b",
+    "name": "Mountaineers"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "8f93d492-a152-4251-b81f-635774c0d14a",
+    "name": "Cascade Collegiate Conference",
+    "alias": "CASCADE"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:24 +0000 ended @ 2025-12-03 22:51:24 +0000"
+}

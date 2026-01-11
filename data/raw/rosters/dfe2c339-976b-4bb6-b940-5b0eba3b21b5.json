@@ -1,0 +1,23 @@
+{
+  "id": "dfe2c339-976b-4bb6-b940-5b0eba3b21b5",
+  "name": "Golden Bears",
+  "market": "Concordia-St. Paul",
+  "alias": "CUSP",
+  "franchise": {
+    "id": "dfe2c339-976b-4bb6-b940-5b0eba3b21b5",
+    "name": "Golden Bears"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "a3dc8d14-691d-4919-8b16-28c3f121901d",
+    "name": "Northern Sun Intercollegiate Conference",
+    "alias": "NSIC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:49 +0000 ended @ 2025-12-03 22:29:49 +0000"
+}

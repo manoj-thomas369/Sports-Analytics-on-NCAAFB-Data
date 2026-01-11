@@ -1,0 +1,40 @@
+{
+  "id": "b315e6e0-8ff2-11f0-9fd5-b52c92e7a0af",
+  "name": "Luke Baker",
+  "last_name": "Baker",
+  "first_name": "Luke",
+  "abbr_name": "L.Baker",
+  "weight": 175.0,
+  "height": 70,
+  "position": "WR",
+  "birth_place": "Clackamas, OR, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "dd35a796-5290-4866-a4d2-4abc6849ba6d",
+    "name": "Wolves",
+    "market": "Western Oregon",
+    "alias": "WOU"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "dd35a796-5290-4866-a4d2-4abc6849ba6d",
+          "name": "Wolves",
+          "market": "Western Oregon",
+          "alias": "WOU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:59 +0000 ended @ 2025-12-03 23:01:59 +0000"
+}

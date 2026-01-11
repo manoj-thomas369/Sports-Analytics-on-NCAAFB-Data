@@ -1,0 +1,76 @@
+{
+  "id": "3a946dd0-6825-11f0-b590-235a9319f2ba",
+  "name": "Kimar Nelson",
+  "jersey": "57",
+  "last_name": "Nelson",
+  "first_name": "Kimar",
+  "abbr_name": "K.Nelson",
+  "weight": 220.0,
+  "height": 74,
+  "position": "LB",
+  "birth_place": "Fort Wayne, IN, USA",
+  "status": "ACT",
+  "eligibility": "FR",
+  "team": {
+    "id": "0767c157-b084-4239-a684-954a22671bce",
+    "name": "Huskies",
+    "market": "Northern Illinois",
+    "alias": "NIU"
+  },
+  "seasons": [
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "0767c157-b084-4239-a684-954a22671bce",
+          "name": "Huskies",
+          "market": "Northern Illinois",
+          "alias": "NIU",
+          "statistics": {
+            "games_played": 4,
+            "games_started": 0,
+            "punt_returns": {
+              "returns": 1,
+              "yards": 21,
+              "avg_yards": 21.0,
+              "touchdowns": 0,
+              "longest": 21,
+              "faircatches": 0,
+              "longest_touchdown": 0
+            },
+            "defense": {
+              "tackles": 3,
+              "assists": 0,
+              "combined": 3,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 1,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 1,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:17 +0000 ended @ 2025-12-03 23:01:17 +0000"
+}

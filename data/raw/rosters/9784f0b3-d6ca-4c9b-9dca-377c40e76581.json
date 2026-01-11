@@ -1,0 +1,23 @@
+{
+  "id": "9784f0b3-d6ca-4c9b-9dca-377c40e76581",
+  "name": "Warriors",
+  "market": "College of Faith (AR)",
+  "alias": "CFAR",
+  "franchise": {
+    "id": "9784f0b3-d6ca-4c9b-9dca-377c40e76581",
+    "name": "Warriors"
+  },
+  "division": {
+    "id": "aa5db6ca-f9b2-4ab9-8e07-6a249ddf0c82",
+    "name": "USCAA",
+    "alias": "USCAA"
+  },
+  "conference": {
+    "id": "ab0298d3-527e-40c8-ae4b-f328e5303aa6",
+    "name": "USCAA Independents",
+    "alias": "USCAA-INDEPENDENTS"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

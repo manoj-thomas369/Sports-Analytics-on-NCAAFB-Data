@@ -1,0 +1,39 @@
+{
+  "id": "091bd8fc-f3e8-4245-834d-44bfdbb4398c",
+  "name": "Hawks",
+  "market": "Chowan",
+  "alias": "CHOW",
+  "franchise": {
+    "id": "091bd8fc-f3e8-4245-834d-44bfdbb4398c",
+    "name": "Hawks"
+  },
+  "venue": {
+    "id": "cd765ea0-72f7-4870-ae2d-39b4371e556a",
+    "name": "Garrison Stadium",
+    "city": "Murfreesboro",
+    "state": "NC",
+    "country": "USA",
+    "zip": "27855",
+    "address": "1 University Drive",
+    "capacity": 2500,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "36.4340",
+      "lng": "-77.0985"
+    }
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "327bb2ce-9582-4e8e-adcb-d297ed656d32",
+    "name": "Central Intercollegiate Athletic Association",
+    "alias": "CIAA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

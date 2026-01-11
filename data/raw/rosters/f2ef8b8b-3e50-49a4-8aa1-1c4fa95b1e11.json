@@ -1,0 +1,23 @@
+{
+  "id": "f2ef8b8b-3e50-49a4-8aa1-1c4fa95b1e11",
+  "name": "Warriors",
+  "market": "Winona State",
+  "alias": "WSU",
+  "franchise": {
+    "id": "f2ef8b8b-3e50-49a4-8aa1-1c4fa95b1e11",
+    "name": "Warriors"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "a3dc8d14-691d-4919-8b16-28c3f121901d",
+    "name": "Northern Sun Intercollegiate Conference",
+    "alias": "NSIC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:49 +0000 ended @ 2025-12-03 22:29:49 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "60190587-8218-4622-9a55-f33560b7d18f",
+  "name": "Royals",
+  "market": "Bethel (MN)",
+  "alias": "BETHM",
+  "franchise": {
+    "id": "60190587-8218-4622-9a55-f33560b7d18f",
+    "name": "Royals"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "29a74ca3-7c09-4d54-8d0f-62c15ee03cdc",
+    "name": "Minnesota Intercollegiate Athletic Conference",
+    "alias": "MIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:06:27 +0000 ended @ 2025-12-03 23:06:27 +0000"
+}

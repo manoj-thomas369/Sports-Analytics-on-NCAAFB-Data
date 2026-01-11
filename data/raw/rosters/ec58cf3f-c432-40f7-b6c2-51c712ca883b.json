@@ -1,0 +1,23 @@
+{
+  "id": "ec58cf3f-c432-40f7-b6c2-51c712ca883b",
+  "name": "Mustangs",
+  "market": "Southwest Minnesota State",
+  "alias": "SWMN",
+  "franchise": {
+    "id": "ec58cf3f-c432-40f7-b6c2-51c712ca883b",
+    "name": "Mustangs"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "a3dc8d14-691d-4919-8b16-28c3f121901d",
+    "name": "Northern Sun Intercollegiate Conference",
+    "alias": "NSIC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:49 +0000 ended @ 2025-12-03 22:29:49 +0000"
+}

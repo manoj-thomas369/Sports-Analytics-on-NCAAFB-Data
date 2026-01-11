@@ -1,0 +1,23 @@
+{
+  "id": "3a4dd01a-14f3-4d0e-bf80-6b9a1f9ce508",
+  "name": "Eagles",
+  "market": "Central Methodist",
+  "alias": "CEME",
+  "franchise": {
+    "id": "3a4dd01a-14f3-4d0e-bf80-6b9a1f9ce508",
+    "name": "Eagles"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "e89a7459-c99d-4148-a4a1-20ed74a1deb0",
+    "name": "Heart of America Athletic Conference",
+    "alias": "HAAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:59 +0000 ended @ 2025-12-03 22:29:59 +0000"
+}

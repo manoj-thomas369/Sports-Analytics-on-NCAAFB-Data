@@ -1,0 +1,23 @@
+{
+  "id": "cdcf2530-0b9e-4f02-93af-60bf33d0adf1",
+  "name": "Boll Weevils",
+  "market": "Arkansas-Monticello",
+  "alias": "ARKM",
+  "franchise": {
+    "id": "cdcf2530-0b9e-4f02-93af-60bf33d0adf1",
+    "name": "Boll Weevils"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1cfcf55b-8038-46ad-9a6a-177090ea9b75",
+  "name": "Mules",
+  "market": "Central Missouri",
+  "alias": "UCM",
+  "franchise": {
+    "id": "1cfcf55b-8038-46ad-9a6a-177090ea9b75",
+    "name": "Mules"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "442a3894-7884-4de6-b564-f9c44ddb4a04",
+    "name": "Mid-America Intercollegiate Athletics Association",
+    "alias": "MIAA"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "b16b092d-ffc5-4d06-85cd-2f7588e5ed86",
+      "name": "Timothy Dorsey",
+      "last_name": "Dorsey",
+      "first_name": "Timothy",
+      "abbr_name": "T.Dorsey",
+      "weight": 188.0,
+      "height": 72,
+      "position": "QB",
+      "birth_place": "Overland Park, KS, USA",
+      "status": "ACT",
+      "eligibility": "SO"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:47 +0000 ended @ 2025-12-03 22:29:47 +0000"
+}

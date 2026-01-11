@@ -1,0 +1,23 @@
+{
+  "id": "73b194d5-d0e3-49ac-a4a5-cce70ab62e5e",
+  "name": "Panthers",
+  "market": "Clark Atlanta",
+  "alias": "CAU",
+  "franchise": {
+    "id": "73b194d5-d0e3-49ac-a4a5-cce70ab62e5e",
+    "name": "Panthers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "cf3cc2c8-47ef-418d-8a25-94ab97588c37",
+    "name": "Southern Intercollegiate Athletic Conference",
+    "alias": "SIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:48:12 +0000 ended @ 2025-12-03 22:48:12 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ad6bc890-d8ac-11ed-8008-21e6e877c549",
+  "name": "Little Giants",
+  "market": "Wabash",
+  "alias": "WABC",
+  "franchise": {
+    "id": "ce84b9a0-d8ad-11ed-8008-21e6e877c549",
+    "name": "Little Giants"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "d57dc97d-1c5f-4783-9900-5f5958ded436",
+    "name": "North Coast Athletic Conference",
+    "alias": "NCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:55 +0000 ended @ 2025-12-03 22:29:55 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d24329bd-f636-475d-bccd-50fc18071945",
+  "name": "Wildcats",
+  "market": "Bethel (TN)",
+  "alias": "BETHT",
+  "franchise": {
+    "id": "d24329bd-f636-475d-bccd-50fc18071945",
+    "name": "Wildcats"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "576b61f7-e51b-4e3e-aee3-d377d45be229",
+    "name": "Southern States Athletic Conference",
+    "alias": "SSAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

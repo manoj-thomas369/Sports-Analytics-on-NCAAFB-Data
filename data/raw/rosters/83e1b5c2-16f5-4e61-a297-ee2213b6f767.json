@@ -1,0 +1,23 @@
+{
+  "id": "83e1b5c2-16f5-4e61-a297-ee2213b6f767",
+  "name": "Oles",
+  "market": "St. Olaf",
+  "alias": "SOC",
+  "franchise": {
+    "id": "83e1b5c2-16f5-4e61-a297-ee2213b6f767",
+    "name": "Oles"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "29a74ca3-7c09-4d54-8d0f-62c15ee03cdc",
+    "name": "Minnesota Intercollegiate Athletic Conference",
+    "alias": "MIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:41:24 +0000 ended @ 2025-12-03 22:41:24 +0000"
+}

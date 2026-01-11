@@ -1,0 +1,39 @@
+{
+  "id": "5b99da48-b028-440f-b600-65c50cb8a1d4",
+  "name": "Grizzlies",
+  "market": "Franklin",
+  "alias": "FRNK",
+  "franchise": {
+    "id": "5b99da48-b028-440f-b600-65c50cb8a1d4",
+    "name": "Grizzlies"
+  },
+  "venue": {
+    "id": "5575f6fe-180e-4990-914c-309ecdbf8310",
+    "name": "Stewart Faught Stadium",
+    "city": "Franklin",
+    "state": "IN",
+    "country": "USA",
+    "zip": "46131",
+    "address": "685 Park Avenue",
+    "capacity": 0,
+    "surface": "artificial",
+    "roof_type": "outdoor",
+    "location": {
+      "lat": "39.4771",
+      "lng": "-86.0458"
+    }
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "6bf1311a-2333-4548-be17-8f1aa14f8e4d",
+    "name": "Heartland Conference",
+    "alias": "HCAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "28e75f10-58c8-11ef-9b82-af825f74f838",
+  "name": "Kyle Garvis",
+  "jersey": "34",
+  "last_name": "Garvis",
+  "first_name": "Kyle",
+  "abbr_name": "K.Garvis",
+  "weight": 223.0,
+  "height": 70,
+  "position": "LB",
+  "birth_place": "Houston, TX, USA",
+  "status": "ACT",
+  "eligibility": "SO",
+  "team": {
+    "id": "d5199a36-7f26-4c3b-be48-9599039e232c",
+    "name": "Aggies",
+    "market": "Texas A&M",
+    "alias": "TXAM"
+  },
+  "seasons": [
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "d5199a36-7f26-4c3b-be48-9599039e232c",
+          "name": "Aggies",
+          "market": "Texas A&M",
+          "alias": "TXAM",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "d5199a36-7f26-4c3b-be48-9599039e232c",
+          "name": "Aggies",
+          "market": "Texas A&M",
+          "alias": "TXAM",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:36 +0000 ended @ 2025-12-03 23:01:36 +0000"
+}

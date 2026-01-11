@@ -1,0 +1,198 @@
+{
+  "id": "28ca44b0-ef75-11ed-9817-570165792b61",
+  "name": "KT Seay",
+  "jersey": "7",
+  "last_name": "Seay",
+  "first_name": "KT",
+  "abbr_name": "K.Seay",
+  "weight": 190.0,
+  "height": 74,
+  "position": "SAF",
+  "birth_place": "Norfolk, VA, USA",
+  "status": "ACT",
+  "eligibility": "JR",
+  "team": {
+    "id": "a9ea6143-d1c9-414d-81ff-7c57a10baf1f",
+    "name": "Fightin' Blue Hens",
+    "market": "Delaware",
+    "alias": "DEL"
+  },
+  "seasons": [
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "a9ea6143-d1c9-414d-81ff-7c57a10baf1f",
+          "name": "Fightin' Blue Hens",
+          "market": "Delaware",
+          "alias": "DEL",
+          "statistics": {
+            "games_played": 12,
+            "games_started": 10,
+            "penalties": {
+              "penalties": 1,
+              "yards": 3,
+              "first_downs": 1
+            },
+            "defense": {
+              "tackles": 6,
+              "assists": 4,
+              "combined": 10,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 1,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "a9ea6143-d1c9-414d-81ff-7c57a10baf1f",
+          "name": "Fightin' Blue Hens",
+          "market": "Delaware",
+          "alias": "DEL",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 11,
+            "defense": {
+              "tackles": 0,
+              "assists": 0,
+              "combined": 0,
+              "sacks": 1.0,
+              "sack_yards": 5.0,
+              "interceptions": 4,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "a9ea6143-d1c9-414d-81ff-7c57a10baf1f",
+          "name": "Fightin' Blue Hens",
+          "market": "Delaware",
+          "alias": "DEL",
+          "statistics": {
+            "games_played": 13,
+            "games_started": 10,
+            "rushing": {
+              "avg_yards": -7.0,
+              "attempts": 1,
+              "touchdowns": 0,
+              "yards": -7,
+              "longest": 0,
+              "longest_touchdown": 0,
+              "redzone_attempts": 0,
+              "tlost": 1,
+              "tlost_yards": -7,
+              "first_downs": 0
+            },
+            "penalties": {
+              "penalties": 1,
+              "yards": 15,
+              "first_downs": 1
+            },
+            "int_returns": {
+              "returns": 3,
+              "yards": 11,
+              "avg_yards": 3.667,
+              "touchdowns": 0,
+              "longest": 9,
+              "longest_touchdown": 0
+            },
+            "fumbles": {
+              "fumbles": 0,
+              "lost_fumbles": 0,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 1,
+              "opp_rec_yards": -3,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            },
+            "defense": {
+              "tackles": 63,
+              "assists": 27,
+              "combined": 90,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 3,
+              "passes_defended": 3,
+              "forced_fumbles": 1,
+              "fumble_recoveries": 1,
+              "qb_hits": 0,
+              "tloss": 4.0,
+              "tloss_yards": 9.0,
+              "safeties": 0,
+              "sp_tackles": 1,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-23 20:28:05 +0000 ended @ 2025-12-23 20:28:05 +0000"
+}

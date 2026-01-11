@@ -1,0 +1,23 @@
+{
+  "id": "2d7e35bc-a88b-41e3-8c1f-be8ef9520086",
+  "name": "Battling Bishops",
+  "market": "NC Wesleyan",
+  "alias": "NCW",
+  "franchise": {
+    "id": "2d7e35bc-a88b-41e3-8c1f-be8ef9520086",
+    "name": "Battling Bishops"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "252b1211-a36c-4184-b229-d8d121610024",
+    "name": "USA South Athletic Conference",
+    "alias": "USA-SOUTH"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:23 +0000 ended @ 2025-12-03 22:51:23 +0000"
+}

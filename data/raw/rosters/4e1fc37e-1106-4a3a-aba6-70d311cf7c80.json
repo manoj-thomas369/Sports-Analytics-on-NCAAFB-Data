@@ -1,0 +1,23 @@
+{
+  "id": "4e1fc37e-1106-4a3a-aba6-70d311cf7c80",
+  "name": "War Hawks",
+  "market": "McMurry",
+  "alias": "MCM",
+  "franchise": {
+    "id": "4e1fc37e-1106-4a3a-aba6-70d311cf7c80",
+    "name": "War Hawks"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "fb267c5d-cfce-41ca-b67f-8ba05d687961",
+    "name": "American Southwest Conference",
+    "alias": "ASC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:55 +0000 ended @ 2025-12-03 22:29:55 +0000"
+}

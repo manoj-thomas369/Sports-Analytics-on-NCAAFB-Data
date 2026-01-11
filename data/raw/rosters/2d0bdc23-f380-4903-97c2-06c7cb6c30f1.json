@@ -1,0 +1,23 @@
+{
+  "id": "2d0bdc23-f380-4903-97c2-06c7cb6c30f1",
+  "name": "Bears",
+  "market": "Rocky Mountain College",
+  "alias": "RMC",
+  "franchise": {
+    "id": "2d0bdc23-f380-4903-97c2-06c7cb6c30f1",
+    "name": "Bears"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "310a49d2-421b-4f00-9b6c-2e5cf312c9f6",
+    "name": "Frontier Conference",
+    "alias": "FRONTIER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}

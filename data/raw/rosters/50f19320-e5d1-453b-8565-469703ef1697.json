@@ -1,0 +1,23 @@
+{
+  "id": "50f19320-e5d1-453b-8565-469703ef1697",
+  "name": "Greyhounds",
+  "market": "Indianapolis",
+  "alias": "INDI",
+  "franchise": {
+    "id": "50f19320-e5d1-453b-8565-469703ef1697",
+    "name": "Greyhounds"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "cd553725-acbe-496a-bae9-ed8ab6456a50",
+    "name": "Great Lakes Valley Conference",
+    "alias": "GLVC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:50 +0000 ended @ 2025-12-03 22:29:50 +0000"
+}

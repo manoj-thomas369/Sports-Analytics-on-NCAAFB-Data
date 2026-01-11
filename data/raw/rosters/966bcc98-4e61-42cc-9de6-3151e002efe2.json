@@ -1,0 +1,23 @@
+{
+  "id": "966bcc98-4e61-42cc-9de6-3151e002efe2",
+  "name": "Seahawks",
+  "market": "Salve Regina",
+  "alias": "SALV",
+  "franchise": {
+    "id": "966bcc98-4e61-42cc-9de6-3151e002efe2",
+    "name": "Seahawks"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "0b87cfb1-c1c5-4033-bbc2-4890d344b97f",
+    "name": "New England Football Conference",
+    "alias": "NEFC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

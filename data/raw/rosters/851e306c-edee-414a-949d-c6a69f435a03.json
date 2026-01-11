@@ -1,0 +1,23 @@
+{
+  "id": "851e306c-edee-414a-949d-c6a69f435a03",
+  "name": "Ravens",
+  "market": "Franklin Pierce",
+  "alias": "FPU",
+  "franchise": {
+    "id": "851e306c-edee-414a-949d-c6a69f435a03",
+    "name": "Ravens"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "74cb3095-362a-4c90-8c61-24b979a0df6c",
+    "name": "Northeast-10",
+    "alias": "NE-10"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:51:24 +0000 ended @ 2025-12-03 22:51:24 +0000"
+}

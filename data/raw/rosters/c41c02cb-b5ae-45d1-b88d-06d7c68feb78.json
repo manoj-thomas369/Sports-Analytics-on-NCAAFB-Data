@@ -1,0 +1,23 @@
+{
+  "id": "c41c02cb-b5ae-45d1-b88d-06d7c68feb78",
+  "name": "Crimson Storm",
+  "market": "Southern Nazarene",
+  "alias": "SNAZ",
+  "franchise": {
+    "id": "c41c02cb-b5ae-45d1-b88d-06d7c68feb78",
+    "name": "Crimson Storm"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:51 +0000 ended @ 2025-12-03 22:29:51 +0000"
+}

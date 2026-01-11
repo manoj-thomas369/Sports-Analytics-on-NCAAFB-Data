@@ -1,0 +1,95 @@
+{
+  "id": "dfb3cde0-1817-11ec-b5d0-753f0c0d9cbe",
+  "name": "Bruno Onwuazor",
+  "jersey": "74",
+  "last_name": "Onwuazor",
+  "first_name": "Bruno",
+  "abbr_name": "B.Onwuazor",
+  "weight": 320.0,
+  "height": 80,
+  "position": "OL",
+  "birth_place": "Bladensburg, MD, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "206ecad6-3883-4171-901e-f0b6578f036f",
+    "name": "Trojans",
+    "market": "Virginia State",
+    "alias": "VSU"
+  },
+  "seasons": [
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "e2a7ee48-c096-4aac-a7a2-4f1f35baa835",
+          "name": "Terrapins",
+          "market": "Maryland",
+          "alias": "MD",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "e2a7ee48-c096-4aac-a7a2-4f1f35baa835",
+          "name": "Terrapins",
+          "market": "Maryland",
+          "alias": "MD",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "206ecad6-3883-4171-901e-f0b6578f036f",
+          "name": "Trojans",
+          "market": "Virginia State",
+          "alias": "VSU",
+          "statistics": {
+            "games_played": 0,
+            "games_started": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "206ecad6-3883-4171-901e-f0b6578f036f",
+          "name": "Trojans",
+          "market": "Virginia State",
+          "alias": "VSU",
+          "statistics": {
+            "games_played": 1,
+            "games_started": 1
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:01:03 +0000 ended @ 2025-12-03 23:01:03 +0000"
+}

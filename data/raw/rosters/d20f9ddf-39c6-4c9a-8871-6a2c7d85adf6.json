@@ -1,0 +1,23 @@
+{
+  "id": "d20f9ddf-39c6-4c9a-8871-6a2c7d85adf6",
+  "name": "Dragons",
+  "market": "Tiffin",
+  "alias": "TIFF",
+  "franchise": {
+    "id": "d20f9ddf-39c6-4c9a-8871-6a2c7d85adf6",
+    "name": "Dragons"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "74997452-1234-43f9-8903-a1da76d6d591",
+    "name": "Great Midwest Athletic Conference",
+    "alias": "G-MAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:48 +0000 ended @ 2025-12-03 22:29:48 +0000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "eb76bf18-c5ae-4075-ac07-589b8b0a8432",
+  "name": "Golden Bears",
+  "market": "Kutztown",
+  "alias": "KUP",
+  "franchise": {
+    "id": "eb76bf18-c5ae-4075-ac07-589b8b0a8432",
+    "name": "Golden Bears"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "b42fbccc-5182-40bf-8d99-213a80dcf327",
+    "name": "Pennsylvania State Athletic Conference",
+    "alias": "PSAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:50 +0000 ended @ 2025-12-03 22:29:50 +0000"
+}

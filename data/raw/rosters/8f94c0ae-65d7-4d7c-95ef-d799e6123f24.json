@@ -1,0 +1,37 @@
+{
+  "id": "8f94c0ae-65d7-4d7c-95ef-d799e6123f24",
+  "name": "Golden Eagles",
+  "market": "Clarion",
+  "alias": "CUP",
+  "franchise": {
+    "id": "8f94c0ae-65d7-4d7c-95ef-d799e6123f24",
+    "name": "Golden Eagles"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "b42fbccc-5182-40bf-8d99-213a80dcf327",
+    "name": "Pennsylvania State Athletic Conference",
+    "alias": "PSAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "c0f4dd6d-6546-491e-910d-8a96f31afee9",
+      "name": "Feyisayo Oluleye",
+      "last_name": "Oluleye",
+      "first_name": "Feyisayo",
+      "abbr_name": "F.Oluleye",
+      "weight": 204.0,
+      "height": 73,
+      "position": "WR",
+      "birth_place": "Lancaster, PA, USA",
+      "status": "ACT",
+      "eligibility": "SR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:14:50 +0000 ended @ 2025-12-03 23:14:50 +0000"
+}

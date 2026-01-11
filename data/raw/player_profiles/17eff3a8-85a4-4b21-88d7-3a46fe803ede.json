@@ -1,0 +1,222 @@
+{
+  "id": "17eff3a8-85a4-4b21-88d7-3a46fe803ede",
+  "name": "Luke Hensley",
+  "jersey": "6",
+  "last_name": "Hensley",
+  "first_name": "Luke",
+  "abbr_name": "L.Hensley",
+  "weight": 195.0,
+  "height": 74,
+  "position": "WR",
+  "birth_place": "Medina, OH, USA",
+  "status": "ACT",
+  "eligibility": "SR",
+  "team": {
+    "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+    "name": "Penguins",
+    "market": "Youngstown State",
+    "alias": "YSU"
+  },
+  "seasons": [
+    {
+      "id": "d1132b13-2c29-4e6d-9011-b627c7fd9a17",
+      "year": 2021,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+          "name": "Penguins",
+          "market": "Youngstown State",
+          "alias": "YSU",
+          "statistics": {
+            "games_played": 4,
+            "games_started": 0,
+            "receiving": {
+              "receptions": 4,
+              "targets": 6,
+              "yards": 35,
+              "avg_yards": 8.75,
+              "longest": 15,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 35,
+              "redzone_targets": 0,
+              "air_yards": 0,
+              "first_downs": 2
+            },
+            "defense": {
+              "tackles": 1,
+              "assists": 0,
+              "combined": 1,
+              "sacks": 0.0,
+              "sack_yards": 0.0,
+              "interceptions": 0,
+              "passes_defended": 0,
+              "forced_fumbles": 0,
+              "fumble_recoveries": 0,
+              "qb_hits": 0,
+              "tloss": 0.0,
+              "tloss_yards": 0.0,
+              "safeties": 0,
+              "sp_tackles": 0,
+              "sp_assists": 0,
+              "sp_forced_fumbles": 0,
+              "sp_fumble_recoveries": 0,
+              "sp_blocks": 0,
+              "misc_tackles": 0,
+              "misc_assists": 0,
+              "misc_forced_fumbles": 0,
+              "misc_fumble_recoveries": 0,
+              "sp_own_fumble_recoveries": 0,
+              "sp_opp_fumble_recoveries": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff53e5e4-10ef-4842-a0b7-b489956fa07e",
+      "year": 2022,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+          "name": "Penguins",
+          "market": "Youngstown State",
+          "alias": "YSU",
+          "statistics": {
+            "games_played": 11,
+            "games_started": 0,
+            "receiving": {
+              "receptions": 6,
+              "targets": 5,
+              "yards": 128,
+              "avg_yards": 21.333,
+              "longest": 39,
+              "touchdowns": 1,
+              "longest_touchdown": 0,
+              "yards_after_catch": 0,
+              "redzone_targets": 0,
+              "air_yards": 128,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "f58c6dbf-9dfe-487e-8b0b-af66af887206",
+      "year": 2023,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+          "name": "Penguins",
+          "market": "Youngstown State",
+          "alias": "YSU",
+          "statistics": {
+            "games_played": 13,
+            "games_started": 0,
+            "receiving": {
+              "receptions": 15,
+              "targets": 12,
+              "yards": 84,
+              "avg_yards": 5.6,
+              "longest": 17,
+              "touchdowns": 2,
+              "longest_touchdown": 14,
+              "yards_after_catch": 18,
+              "redzone_targets": 2,
+              "air_yards": 66,
+              "first_downs": 2
+            },
+            "penalties": {
+              "penalties": 1,
+              "yards": 5,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "908fbc20-f5c7-11ee-a306-c311afc28263",
+      "year": 2024,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+          "name": "Penguins",
+          "market": "Youngstown State",
+          "alias": "YSU",
+          "statistics": {
+            "games_played": 6,
+            "games_started": 4,
+            "receiving": {
+              "receptions": 11,
+              "targets": 11,
+              "yards": 145,
+              "avg_yards": 13.182,
+              "longest": 32,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 5,
+              "redzone_targets": 0,
+              "air_yards": 140,
+              "first_downs": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "754e4990-efc7-11ef-bb2a-5d2d22b9215e",
+      "year": 2025,
+      "type": "REG",
+      "name": "REG",
+      "teams": [
+        {
+          "id": "868731af-6062-409f-841d-73e6f8ec3b99",
+          "name": "Penguins",
+          "market": "Youngstown State",
+          "alias": "YSU",
+          "statistics": {
+            "games_played": 9,
+            "games_started": 1,
+            "receiving": {
+              "receptions": 14,
+              "targets": 10,
+              "yards": 189,
+              "avg_yards": 13.5,
+              "longest": 27,
+              "touchdowns": 0,
+              "longest_touchdown": 0,
+              "yards_after_catch": 0,
+              "redzone_targets": 0,
+              "air_yards": 189,
+              "first_downs": 0
+            },
+            "fumbles": {
+              "fumbles": 1,
+              "lost_fumbles": 0,
+              "own_rec": 0,
+              "own_rec_yards": 0,
+              "opp_rec": 0,
+              "opp_rec_yards": 0,
+              "out_of_bounds": 0,
+              "forced_fumbles": 0,
+              "own_rec_tds": 0,
+              "opp_rec_tds": 0,
+              "ez_rec_tds": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 23:02:06 +0000 ended @ 2025-12-03 23:02:06 +0000"
+}

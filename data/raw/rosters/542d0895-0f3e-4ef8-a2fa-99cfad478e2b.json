@@ -1,0 +1,38 @@
+{
+  "id": "542d0895-0f3e-4ef8-a2fa-99cfad478e2b",
+  "name": "Hardrockers",
+  "market": "South Dakota Mines",
+  "alias": "SDSMT",
+  "franchise": {
+    "id": "542d0895-0f3e-4ef8-a2fa-99cfad478e2b",
+    "name": "Hardrockers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "201ef749-4ed4-4474-88ce-91bc1119436e",
+    "name": "Rocky Mountain Athletic Conference",
+    "alias": "RMAC"
+  },
+  "coaches": [],
+  "players": [
+    {
+      "id": "dd7708cf-dd46-42c7-aed7-b946b3864bf9",
+      "name": "Bryan Lumsden",
+      "jersey": "0",
+      "last_name": "Lumsden",
+      "first_name": "Bryan",
+      "abbr_name": "B.Lumsden",
+      "weight": 200.0,
+      "height": 68,
+      "position": "RB",
+      "birth_place": "Clermont, FL, USA",
+      "status": "ACT",
+      "eligibility": "JR"
+    }
+  ],
+  "_comment": "Generation started @ 2025-12-03 22:29:46 +0000 ended @ 2025-12-03 22:29:46 +0000"
+}

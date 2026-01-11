@@ -1,0 +1,23 @@
+{
+  "id": "dd048090-4399-420b-97bd-c0774ac89fc7",
+  "name": "Rangers",
+  "market": "Northwestern Oklahoma State",
+  "alias": "NOSU",
+  "franchise": {
+    "id": "dd048090-4399-420b-97bd-c0774ac89fc7",
+    "name": "Rangers"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "eecdc945-d69b-489a-99e4-a2d2bb16bb24",
+    "name": "Great American Conference",
+    "alias": "GAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:26:38 +0000 ended @ 2025-12-03 22:26:38 +0000"
+}

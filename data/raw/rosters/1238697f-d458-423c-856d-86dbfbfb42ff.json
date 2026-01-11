@@ -1,0 +1,23 @@
+{
+  "id": "1238697f-d458-423c-856d-86dbfbfb42ff",
+  "name": "Timberwolves",
+  "market": "Northwood",
+  "alias": "NWOOD",
+  "franchise": {
+    "id": "1238697f-d458-423c-856d-86dbfbfb42ff",
+    "name": "Timberwolves"
+  },
+  "division": {
+    "id": "0c37e018-9a60-44dd-88af-e28ce4a4184b",
+    "name": "Division II",
+    "alias": "D2"
+  },
+  "conference": {
+    "id": "65e9fcaf-9ab3-484c-a238-150424c38159",
+    "name": "Great Lakes Intercollegiate Athletic Conference",
+    "alias": "GLIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:48 +0000 ended @ 2025-12-03 22:29:48 +0000"
+}

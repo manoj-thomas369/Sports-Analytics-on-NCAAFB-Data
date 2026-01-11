@@ -1,0 +1,23 @@
+{
+  "id": "018452d7-9b83-402b-9428-c8a34e87df5b",
+  "name": "Fighting Saints",
+  "market": "St. Francis (IL)",
+  "alias": "SFIL",
+  "franchise": {
+    "id": "018452d7-9b83-402b-9428-c8a34e87df5b",
+    "name": "Fighting Saints"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "9d92d688-32ef-4cd4-855f-49f3214d9413",
+    "name": "Mid-States Football Association",
+    "alias": "MSFA"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:46:26 +0000 ended @ 2025-12-03 22:46:26 +0000"
+}

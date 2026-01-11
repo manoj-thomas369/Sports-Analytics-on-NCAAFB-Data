@@ -1,0 +1,24 @@
+{
+  "id": "4c834350-f09c-11ef-84f9-1bccf517e62b",
+  "name": "Eagles",
+  "market": "Wisconsin-La Crosse",
+  "alias": "UWLC",
+  "franchise": {
+    "id": "4dc0a550-f09c-11ef-84f9-1bccf517e62b",
+    "name": "Eagles",
+    "alias": "Eagles"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "761bddcb-89e4-4ba7-9bc9-6d5dce0af9fa",
+    "name": "Wisconsin Athletic Conference",
+    "alias": "WIAC"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:54 +0000 ended @ 2025-12-03 22:29:54 +0000"
+}

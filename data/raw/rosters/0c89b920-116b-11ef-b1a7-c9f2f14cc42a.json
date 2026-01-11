@@ -1,0 +1,24 @@
+{
+  "id": "0c89b920-116b-11ef-b1a7-c9f2f14cc42a",
+  "name": "Bengals",
+  "market": "Buffalo State",
+  "alias": "BUFS",
+  "franchise": {
+    "id": "59df3d30-116b-11ef-b1a7-c9f2f14cc42a",
+    "name": "Bengals",
+    "alias": "BUFST"
+  },
+  "division": {
+    "id": "5f7c0a15-2b79-4ca4-b320-136d9495d1f7",
+    "name": "Division III",
+    "alias": "D3"
+  },
+  "conference": {
+    "id": "9a47496a-d965-4a65-b2cc-b5e46081af56",
+    "name": "Liberty League",
+    "alias": "Liberty"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 23:15:35 +0000 ended @ 2025-12-03 23:15:35 +0000"
+}

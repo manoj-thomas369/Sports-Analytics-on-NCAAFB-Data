@@ -1,0 +1,23 @@
+{
+  "id": "0d03d2d6-1243-4b1f-b3c8-45be1145ac7b",
+  "name": "Fighting Saints",
+  "market": "Carroll College",
+  "alias": "CAR",
+  "franchise": {
+    "id": "0d03d2d6-1243-4b1f-b3c8-45be1145ac7b",
+    "name": "Fighting Saints"
+  },
+  "division": {
+    "id": "a590be2a-ad78-4ca1-818b-a14b4c369100",
+    "name": "NAIA",
+    "alias": "NAIA"
+  },
+  "conference": {
+    "id": "310a49d2-421b-4f00-9b6c-2e5cf312c9f6",
+    "name": "Frontier Conference",
+    "alias": "FRONTIER"
+  },
+  "coaches": [],
+  "players": [],
+  "_comment": "Generation started @ 2025-12-03 22:29:58 +0000 ended @ 2025-12-03 22:29:58 +0000"
+}
