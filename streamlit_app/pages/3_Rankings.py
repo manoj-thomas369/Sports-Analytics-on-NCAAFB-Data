@@ -1,13 +1,73 @@
 import streamlit as st
 from db import run_query
 
+# --------------------------------------------------
+# ⚙️ Page Config
+# --------------------------------------------------
 st.set_page_config(page_title="Rankings", layout="wide")
 
 st.title("🏆 Weekly AP Rankings")
 st.caption("AP Top 25 rankings with filters, search, and team trends")
 
+
 # --------------------------------------------------
-# 1️⃣ Load rankings data
+# 1️⃣ Load available seasons (small query)
+# --------------------------------------------------
+season_query = """
+SELECT DISTINCT season_year
+FROM rankings
+ORDER BY season_year DESC
+"""
+
+season_df = run_query(season_query)
+
+if season_df.empty:
+    st.warning("No rankings data available.")
+    st.stop()
+
+season = st.selectbox(
+    "Season",
+    season_df["season_year"]
+)
+
+
+# --------------------------------------------------
+# 2️⃣ Load available weeks for selected season
+# --------------------------------------------------
+week_query = """
+SELECT DISTINCT week
+FROM rankings
+WHERE season_year = %s
+ORDER BY week
+"""
+
+week_df = run_query(week_query, params=(season,))
+
+week = st.selectbox(
+    "Week",
+    week_df["week"]
+)
+
+
+# --------------------------------------------------
+# 3️⃣ Rank range slider
+# --------------------------------------------------
+rank_range = st.slider(
+    "Rank Range",
+    min_value=1,
+    max_value=25,
+    value=(1, 25)
+)
+
+
+# --------------------------------------------------
+# 4️⃣ Search input
+# --------------------------------------------------
+search = st.text_input("🔍 Search team (name / market / alias)")
+
+
+# --------------------------------------------------
+# 5️⃣ Load ONLY required rankings from SQL
 # --------------------------------------------------
 query = """
 SELECT
@@ -23,117 +83,116 @@ SELECT
     t.market AS team_market,
     t.alias AS team_alias
 FROM rankings r
-JOIN teams t ON r.team_id = t.team_id
-ORDER BY r.season_year DESC, r.week, r.rank;
+JOIN teams t
+    ON r.team_id::uuid = t.team_id
+WHERE r.season_year = %s
+AND r.week = %s
+AND r.rank BETWEEN %s AND %s
 """
 
-df = run_query(query)
+params = [season, week, rank_range[0], rank_range[1]]
 
-if df.empty:
-    st.warning("No rankings data available.")
-    st.stop()
-
-# --------------------------------------------------
-# 2️⃣ Filters (Season / Week / Rank range)
-# --------------------------------------------------
-col1, col2, col3 = st.columns(3)
-
-with col1:
-    season = st.selectbox(
-        "Season",
-        sorted(df["season_year"].unique(), reverse=True)
-    )
-
-with col2:
-    week = st.selectbox(
-        "Week",
-        sorted(df[df["season_year"] == season]["week"].unique())
-    )
-
-with col3:
-    rank_range = st.slider(
-        "Rank Range",
-        min_value=1,
-        max_value=25,
-        value=(1, 25)
-    )
-
-# --------------------------------------------------
-# 3️⃣ Apply filters
-# --------------------------------------------------
-filtered_df = df[
-    (df["season_year"] == season) &
-    (df["week"] == week) &
-    (df["rank"].between(rank_range[0], rank_range[1]))
-].copy()
-
-# --------------------------------------------------
-# 4️⃣ Search by team
-# --------------------------------------------------
-search = st.text_input("🔍 Search team (name / market / alias)")
-
+# Apply search filter in SQL
 if search:
-    filtered_df = filtered_df[
-        filtered_df["team_name"].str.contains(search, case=False, na=False) |
-        filtered_df["team_market"].str.contains(search, case=False, na=False) |
-        filtered_df["team_alias"].str.contains(search, case=False, na=False)
-    ]
+    query += """
+    AND (
+        t.name ILIKE %s
+        OR t.market ILIKE %s
+        OR t.alias ILIKE %s
+    )
+    """
+    params.extend([f"%{search}%", f"%{search}%", f"%{search}%"])
+
+
+query += " ORDER BY r.rank"
+
+
+df = run_query(query, params=params)
+
 
 # --------------------------------------------------
-# 5️⃣ Rankings table
+# 6️⃣ Display Rankings Table
 # --------------------------------------------------
 st.subheader(f"📊 Rankings — Season {season}, Week {week}")
 
-st.dataframe(
-    filtered_df[
-        [
-            "rank",
-            "team_name",
-            "team_market",
-            "team_alias",
-            "wins",
-            "losses",
-            "points",
-            "fp_votes"
-        ]
-    ].reset_index(drop=True),
-    use_container_width=True
-)
+if df.empty:
+    st.warning("No rankings found.")
+else:
+    st.dataframe(
+        df[
+            [
+                "rank",
+                "team_name",
+                "team_market",
+                "team_alias",
+                "wins",
+                "losses",
+                "points",
+                "fp_votes"
+            ]
+        ],
+        use_container_width=True,
+        hide_index=True
+    )
+
 
 # --------------------------------------------------
-# 6️⃣ Summary metrics
+# 7️⃣ Summary metrics
 # --------------------------------------------------
-st.markdown("### 📌 Summary")
+if not df.empty:
 
-m1, m2, m3 = st.columns(3)
+    st.markdown("### 📌 Summary")
 
-with m1:
-    st.metric("Teams Ranked", filtered_df.shape[0])
+    m1, m2, m3 = st.columns(3)
 
-with m2:
-    st.metric("Avg Points", round(filtered_df["points"].mean(), 2))
+    with m1:
+        st.metric("Teams Ranked", df.shape[0])
 
-with m3:
-    st.metric("Total 1st Place Votes", int(filtered_df["fp_votes"].sum()))
+    with m2:
+        st.metric("Avg Points", round(df["points"].mean(), 2))
+
+    with m3:
+        st.metric("Total 1st Place Votes", int(df["fp_votes"].sum()))
+
 
 # --------------------------------------------------
-# 7️⃣ Team ranking trend (by week)
+# 8️⃣ Team Ranking Trend
 # --------------------------------------------------
 st.markdown("### 📈 Team Ranking Trend")
 
+team_query = """
+SELECT DISTINCT name
+FROM teams
+ORDER BY name
+"""
+
+team_df = run_query(team_query)
+
 team_selected = st.selectbox(
-    "Select a Team",
-    sorted(df["team_name"].unique())
+    "Select Team",
+    team_df["name"]
 )
 
-trend_df = df[
-    (df["team_name"] == team_selected) &
-    (df["season_year"] == season)
-].sort_values("week")
+trend_query = """
+SELECT
+    r.week,
+    r.rank
+FROM rankings r
+JOIN teams t
+    ON r.team_id::uuid = t.team_id
+WHERE t.name = %s
+AND r.season_year = %s
+ORDER BY r.week
+"""
+
+trend_df = run_query(
+    trend_query,
+    params=(team_selected, season)
+)
 
 if not trend_df.empty:
     st.line_chart(
         trend_df.set_index("week")["rank"]
     )
 else:
-    st.info("No ranking history available for this team in this season.")
+    st.info("No ranking history available.")
